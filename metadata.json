@@ -1,0 +1,6 @@
+{
+  "name": "SmartQuiz 本地助手",
+  "description": "极速检索本地 JSON 题库，支持零流量浏览器 OCR 识别，完全隐私安全。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

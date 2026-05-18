@@ -1,0 +1,6225 @@
+[
+  {
+    "id": "q_1_0",
+    "chapter": "第1章试题",
+    "text": "Which question no longer concerns the modern software engineer?",
+    "options": [
+      "A. Why does computer hardware cost so much?",
+      "B. Why does software take a long time to finish?",
+      "C. Why does it cost so much to develop a piece of software?",
+      "D. Why can't software errors be removed from products prior to delivery?"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_1_1",
+    "chapter": "第1章试题",
+    "text": "Software is a product and can be manufactured using the same technologies used for other engineering artifacts",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_1_2",
+    "chapter": "第1章试题",
+    "text": "Software deteriorates rather than wears out because",
+    "options": [
+      "A. Software suffers from exposure to hostile environments",
+      "B. Defects are more likely to arise after software has been used often",
+      "C. Multiple change requests introduce errors in component interactions",
+      "D. Software spare parts become harder to order"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_1_3",
+    "chapter": "第1章试题",
+    "text": "WebApps are a mixture of print publishing and software development, making their development outside the realm of software engineering practice.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_1_4",
+    "chapter": "第1章试题",
+    "text": "There are no real differences between creating WebApps and MobileApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_1_5",
+    "chapter": "第1章试题",
+    "text": "In its simplest form an external computing device may access cloud data services using a web browser.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_1_6",
+    "chapter": "第1章试题",
+    "text": "Product line software development depends the reuse of existing software components to provide software engineering leverage.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_2_7",
+    "chapter": "第2章试题",
+    "text": "Which of the items listed below is not one of the software engineering layers?",
+    "options": [
+      "A. Process",
+      "B. Manufacturing",
+      "C. Methods",
+      "D. Tools"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_2_8",
+    "chapter": "第2章试题",
+    "text": "Software engineering umbrella activities are only applied during the initial phases of software development projects.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_2_9",
+    "chapter": "第2章试题",
+    "text": "Which of these are the 5 generic software engineering framework activities?",
+    "options": [
+      "A. communication, planning, modeling, construction, deployment",
+      "B. communication, risk management, measurement, production, reviewing",
+      "C. analysis, designing, programming, debugging, maintenance",
+      "D. analysis, planning, designing, programming, testing"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_2_10",
+    "chapter": "第2章试题",
+    "text": "Planning ahead for software reuse reduces the cost and increases the value of the systems into which they are incorporated.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_2_11",
+    "chapter": "第2章试题",
+    "text": "The essence of software engineering practice might be described as understand the problem, plan a solution, carry out the plan, and examine the result for accuracy.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_2_12",
+    "chapter": "第2章试题",
+    "text": "In agile process models the only deliverable work product is the working program.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_2_13",
+    "chapter": "第2章试题",
+    "text": "A most software development projects are initiated to try to meet some business need.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_2_14",
+    "chapter": "第2章试题",
+    "text": "In general software only succeeds if its behavior is consistent with the objectives of its designers.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_3_15",
+    "chapter": "第3章试题",
+    "text": "Which of the following are recognized process flow types?",
+    "options": [
+      "A. Concurrent process flow",
+      "B. Iterative process flow",
+      "C. Linear process flow",
+      "D. Spiral process flow",
+      "E. both a and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_3_16",
+    "chapter": "第3章试题",
+    "text": "The communication activity is best handled for small projects using six distinct actions (inception, elicitation, elaboration, negotiation, specification, validation).",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_3_17",
+    "chapter": "第3章试题",
+    "text": "A good software development team always uses the same task set for every project to insure high quality work products",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_3_18",
+    "chapter": "第3章试题",
+    "text": "Software processes can be constructed out of pre-existing software patterns to best meet the needs of a software project.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_3_19",
+    "chapter": "第3章试题",
+    "text": "Which of these are standards for assessing software processes?",
+    "options": [
+      "A. SEI",
+      "B. SPICE",
+      "C. ISO 9000",
+      "D. ISO 9001",
+      "E. both b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_4_20",
+    "chapter": "第4章试题",
+    "text": "The waterfall model of software development is",
+    "options": [
+      "A. A reasonable approach when requirements are well defined.",
+      "B. A good approach when a working program is required quickly.",
+      "C. The best approach to use for projects with large development teams.",
+      "D. An old fashioned model that is rarely used any more."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_4_21",
+    "chapter": "第4章试题",
+    "text": "The incremental model of software development is",
+    "options": [
+      "A. A reasonable approach when requirements are well defined.",
+      "B. A good approach when a working core product is required quickly.",
+      "C. The best approach to use for projects with large development teams.",
+      "D. A revolutionary model that is not used for commercial products."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_4_22",
+    "chapter": "第4章试题",
+    "text": "Evolutionary software process models",
+    "options": [
+      "A. Are iterative in nature.",
+      "B. Can easily accommodate product requirements changes.",
+      "C. Do not generally produce throwaway systems.",
+      "D. All of the above."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_4_23",
+    "chapter": "第4章试题",
+    "text": "The prototyping model of software development is",
+    "options": [
+      "A. A reasonable approach when requirements are well defined.",
+      "B. A useful approach when a customer cannot define requirements clearly.",
+      "C. The best approach to use for projects with large development teams.",
+      "D. A risky model that rarely produces a meaningful product."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_4_24",
+    "chapter": "第4章试题",
+    "text": "The spiral model of software development",
+    "options": [
+      "A. Ends with the delivery of the software product.",
+      "B. Is more chaotic than the incremental model.",
+      "C. Includes project risks evaluation during each iteration.",
+      "D. All of the above."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_4_25",
+    "chapter": "第4章试题",
+    "text": "The concurrent development model is",
+    "options": [
+      "A. Another name for concurrent engineering.",
+      "B. Defines events that trigger engineering activity state transitions.",
+      "C. Only used for development of parallel or distributed systems.",
+      "D. Used whenever a large number of change requests are anticipated.",
+      "E. Both a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_4_26",
+    "chapter": "第4章试题",
+    "text": "The component-based development model is",
+    "options": [
+      "A. Only appropriate for computer hardware design.",
+      "B. Not able to support the development of reusable components.",
+      "C. Dependent on object technologies for support.",
+      "D. Not cost effective by known quantifiable software metrics."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_4_27",
+    "chapter": "第4章试题",
+    "text": "The formal methods model of software development makes use of mathematical methods to",
+    "options": [
+      "A. Define the specification for computer-based systems.",
+      "B. Develop defect free computer-based systems.",
+      "C. Verify the correctness of computer-based systems.",
+      "D. All of the above."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_4_28",
+    "chapter": "第4章试题",
+    "text": "Which of these is not one of the phase names defined by the Unified Process model for software development?",
+    "options": [
+      "A. Inception phase",
+      "B. Elaboration phase",
+      "C. Construction phase",
+      "D. Validation phase"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_4_29",
+    "chapter": "第4章试题",
+    "text": "Which of these is not a characteristic of Personal Software Process?",
+    "options": [
+      "A. Emphasizes personal measurement of work product.",
+      "B. Practitioner requires careful supervision by the project manager.",
+      "C. Individual practitioner is responsible for estimating and scheduling.",
+      "D. Practitioner is empowered to control quality of software work products."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_4_30",
+    "chapter": "第4章试题",
+    "text": "Which of these are objectives of Team Software Process?",
+    "options": [
+      "A. Accelerate software process improvement",
+      "B. Allow better time management by highly trained professionals",
+      "C. Build self-directed software teams",
+      "D. Show managers how to reduce costs and sustain quality",
+      "E. Both b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_4_31",
+    "chapter": "第4章试题",
+    "text": "Process technology tools allow software organizations to compress schedules by skipping unimportant activities.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_4_32",
+    "chapter": "第4章试题",
+    "text": "It is generally accepted that one cannot have weak software processes and create high quality end products.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_33",
+    "chapter": "第5章试题",
+    "text": "Agility is nothing more than the ability of a project team to respond rapidly to change.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_5_34",
+    "chapter": "第5章试题",
+    "text": "Which of the following is not necessary to apply agility to a software process?",
+    "options": [
+      "A. Eliminate the use of project planning and testing",
+      "B. Only essential work products are produced",
+      "C. Process allows team to streamline tasks",
+      "D. Uses incremental product delivery strategy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_35",
+    "chapter": "第5章试题",
+    "text": "How do you create agile processes to manage unpredictability?",
+    "options": [
+      "A. Requirements gathering must be conducted very carefully",
+      "B. Risk analysis must be conducted before planning takes place",
+      "C. Software increments must be delivered in short time periods",
+      "D. Software processes must adapt to changes incrementally",
+      "E. Both c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_5_36",
+    "chapter": "第5章试题",
+    "text": "In agile software processes the highest priorities is to satisfy the customer through early and continuous delivery of valuable software.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_37",
+    "chapter": "第5章试题",
+    "text": "In agile development it is more important to build software that meets the customers' needs today than worry about features that might be needed in the future.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_38",
+    "chapter": "第5章试题",
+    "text": "What are the four framework activities found in the Extreme Programming (XP) process model?",
+    "options": [
+      "A. analysis, design, coding, testing",
+      "B. planning, analysis, design, coding",
+      "C. planning, analysis, coding, testing",
+      "D. planning, design, coding, testing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_5_39",
+    "chapter": "第5章试题",
+    "text": "All agile process models conform to a greater or lesser degree to the principles stated in the \"Manifesto for Agile Software Development\".",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_40",
+    "chapter": "第5章试题",
+    "text": "Which is not one of the key questions that is answered by each team member at each daily Scrum meeting?",
+    "options": [
+      "A. What did you do since the last meeting?",
+      "B. What obstacles are you encountering?",
+      "C. What obstacles are you encountering?",
+      "D. What do you plan to accomplish be the next team meeting?"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_5_41",
+    "chapter": "第5章试题",
+    "text": "The Dynamic Systems Development Method (DSDM) suggests a philosophy that is based on the Pareto principle (80% of the application can be delivered in 20% of the time required to build the complete application).",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_5_42",
+    "chapter": "第5章试题",
+    "text": "Agile Modeling (AM) provides guidance to practitioner during which of these software tasks?",
+    "options": [
+      "A. Analysis",
+      "B. Design",
+      "C. Coding",
+      "D. Testing",
+      "E. Both a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_5_43",
+    "chapter": "第5章试题",
+    "text": "Agile Unified Process uses the classic UP phased activities (inception, elaboration, construction, transition) to help the team visualize the overall process flow.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_44",
+    "chapter": "第6章试题",
+    "text": "Human aspects of software engineering are not relevant in today's agile process models.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_6_45",
+    "chapter": "第6章试题",
+    "text": "Which of the following is not an important trait of an effective software engineer?",
+    "options": [
+      "A. Attentive to detail",
+      "B. Brutally honest",
+      "C. Follows process rule dogmatically",
+      "D. Resilient under pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_6_46",
+    "chapter": "第6章试题",
+    "text": "Group communication and collaboration are as important as the technical skills of an individual team member to the success of a team.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_47",
+    "chapter": "第6章试题",
+    "text": "Teams with diversity in the individual team member skill sets tend to be more effective than teams without this diversity.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_48",
+    "chapter": "第6章试题",
+    "text": "Which of the following can contribute to team toxicity?",
+    "options": [
+      "A. Frenzied work atmosphere",
+      "B. Inadequate budget",
+      "C. Poorly coordinated software process",
+      "D. Unclear definition of team roles",
+      "E. a, b, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_6_49",
+    "chapter": "第6章试题",
+    "text": "Software engineering team structure is independent of problem complexity and size of the expected software products.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_6_50",
+    "chapter": "第6章试题",
+    "text": "Agile teams are allowed to self-organize and make their own technical decisions.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_51",
+    "chapter": "第6章试题",
+    "text": "In XP a metaphor is used as a device to facilitate communications among customers, team members, and managers?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_52",
+    "chapter": "第6章试题",
+    "text": "Using an established social media platform negates the need to be concerned about privacy or security.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_6_53",
+    "chapter": "第6章试题",
+    "text": "Use of cloud services can speed up information sharing among software team members?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_6_54",
+    "chapter": "第6章试题",
+    "text": "In collaborative development environments, metrics are used to reward and punish team members.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_6_55",
+    "chapter": "第6章试题",
+    "text": "Which of these factors complicate decision-making by global software teams",
+    "options": [
+      "A. Complexity of problem",
+      "B. Different views of the problem",
+      "C. Law of unintended consequences",
+      "D. Risk associated with decision",
+      "E. All of the above."
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_7_56",
+    "chapter": "第7章试题",
+    "text": "Software engineering principles have about a three year half-life.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_7_57",
+    "chapter": "第7章试题",
+    "text": "Which of the following is not one of core principles of software engineering practice?",
+    "options": [
+      "A. All design should be as simple as possible, but no simpler.",
+      "B. A software system exists only to provide value to its users.",
+      "C. Pareto principle (20% of any product requires 80% of the effort).",
+      "D. Remember that you produce others will consume"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_7_58",
+    "chapter": "第7章试题",
+    "text": "Every communication activity should have a facilitator to make sure that the customer is not allowed to dominate the proceedings.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_7_59",
+    "chapter": "第7章试题",
+    "text": "The agile view of iterative customer communication and collaboration is applicable to all software engineering practice.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_7_60",
+    "chapter": "第7章试题",
+    "text": "One reason to involve everyone on the software team in the planning activity is to",
+    "options": [
+      "A. adjust the granularity of the plan",
+      "B. control feature creep",
+      "C. get all team members to \"sign up\" to the plan",
+      "D. understand the problem scope"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_7_61",
+    "chapter": "第7章试题",
+    "text": "Project plans should not be changed once they are adopted by a team.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_7_62",
+    "chapter": "第7章试题",
+    "text": "Requirements models depict software in which three domains?",
+    "options": [
+      "A. architecture, interface, component",
+      "B. cost, risk, schedule",
+      "C. information, function, behavior",
+      "D. None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_7_63",
+    "chapter": "第7章试题",
+    "text": "The design model should be traceable to the requirements model?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_7_64",
+    "chapter": "第7章试题",
+    "text": "Teams using agile software practices do not generally create models.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_7_65",
+    "chapter": "第7章试题",
+    "text": "Which of the following is not one of the principles of good coding?",
+    "options": [
+      "A. Create unit tests before you begin coding",
+      "B. Create unit tests before you begin coding",
+      "C. Refractor the code after you complete the first coding pass",
+      "D. Write self-documenting code, not program documentation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_7_66",
+    "chapter": "第7章试题",
+    "text": "A successful test I ones that discovers at least one as-yet undiscovered error.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_7_67",
+    "chapter": "第7章试题",
+    "text": "Which of the following are valid reasons for collecting customer feedback concerning delivered software?",
+    "options": [
+      "A. Allows developers to make changes to the delivered increment",
+      "B. Delivery schedule can be revised to reflect changes",
+      "C. Developers can identify changes to incorporate into next increment",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_7_68",
+    "chapter": "第7章试题",
+    "text": "Larger programming teams are always more productive than smaller teams.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_69",
+    "chapter": "第8章试题",
+    "text": "Requirements engineering is a generic process that does not vary from one software project to another.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_70",
+    "chapter": "第8章试题",
+    "text": "During project inception the intent of the of the tasks are to determine",
+    "options": [
+      "A. basic problem understanding",
+      "B. nature of the solution needed",
+      "C. people who want a solution",
+      "D. none of the above",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_8_71",
+    "chapter": "第8章试题",
+    "text": "Three things that make requirements elicitation difficult are problems of",
+    "options": [
+      "A. budgeting",
+      "B. scope",
+      "C. understanding",
+      "D. volatility",
+      "E. b, c, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_8_72",
+    "chapter": "第8章试题",
+    "text": "A stakeholder is anyone who will purchase the completed software system under development.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_73",
+    "chapter": "第8章试题",
+    "text": "It is relatively common for different customers to propose conflicting requirements, each arguing that his or her version is the right one.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_74",
+    "chapter": "第8章试题",
+    "text": "Which of the following is not one of the context-free questions that would be used during project inception?",
+    "options": [
+      "A. What will be the economic benefit from a good solution?",
+      "B. Who is behind the request for work?",
+      "C. Who will pay for the work?",
+      "D. Who will use the solution?"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_8_75",
+    "chapter": "第8章试题",
+    "text": "Non-functional requirements can be safely ignored in modern software development projects.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_76",
+    "chapter": "第8章试题",
+    "text": "In collaborative requirements gathering the facilitator",
+    "options": [
+      "A. arranges the meeting place",
+      "B. can not be a customer",
+      "C. controls the meeting",
+      "D. must be an outsider"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_8_77",
+    "chapter": "第8章试题",
+    "text": "Which of the following is not one of the requirement classifications used in Quality Function Deployment (QFD)?",
+    "options": [
+      "A. exciting",
+      "B. expected",
+      "C. mandatory",
+      "D. normal"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_8_78",
+    "chapter": "第8章试题",
+    "text": "The work products produced during requirement elicitation will vary depending on the",
+    "options": [
+      "A. size of the budget.",
+      "B. size of the product being built.",
+      "C. software process being used.",
+      "D. stakeholders needs.",
+      "E. both a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_8_79",
+    "chapter": "第8章试题",
+    "text": "User stories are complete descriptions the user needs and include the non-functional requirements for a software increment.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_80",
+    "chapter": "第8章试题",
+    "text": "Developers and customers create use-cases to help the software team understand how different classes of end-users will use functions.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_81",
+    "chapter": "第8章试题",
+    "text": "Use-case actors are always people, never system devices.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_82",
+    "chapter": "第8章试题",
+    "text": "The result of the requirements engineering task is an analysis model that defines which of the following problem domain(s)?",
+    "options": [
+      "A. information",
+      "B. functional",
+      "C. behavioral",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_8_83",
+    "chapter": "第8章试题",
+    "text": "Analysis patterns facilitate the transformation of the analysis model into a design model by suggesting reliable solutions to common problems.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_84",
+    "chapter": "第8章试题",
+    "text": "In agile process models requirements engineering and design activities are interleaved.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_8_85",
+    "chapter": "第8章试题",
+    "text": "In win-win negotiation, the customer's needs are met even though the developer's need may not be.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_86",
+    "chapter": "第8章试题",
+    "text": "In requirements validation the requirements model is reviewed to ensure its technical feasibility.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_8_87",
+    "chapter": "第8章试题",
+    "text": "The most common reason for software project failure is lack of functionality.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_9_88",
+    "chapter": "第9章试题",
+    "text": "Which of these is not an element of a requirements model?",
+    "options": [
+      "A. Behavioral elements",
+      "B. Class-based elements",
+      "C. Data elements",
+      "D. Scenario-based elements"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_9_89",
+    "chapter": "第9章试题",
+    "text": "Which of the following is not an objective for building a requirements model?",
+    "options": [
+      "A. define set of software requirements that can be validated",
+      "B. describe customer requirements",
+      "C. develop an abbreviated solution for the problem",
+      "D. establish basis for software design"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_9_90",
+    "chapter": "第9章试题",
+    "text": "Object-oriented domain analysis is concerned with the identification and specification of reusable capabilities within an application domain.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_9_91",
+    "chapter": "第9章试题",
+    "text": "In structured analysis models focus on the structure of the classes defined for a system along with their interactions.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_9_92",
+    "chapter": "第9章试题",
+    "text": "Creation and refinement of use cases if an important part of scenario-based modeling.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_9_93",
+    "chapter": "第9章试题",
+    "text": "It is important to consider alternative actor interactions when creating a preliminary use case.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_9_94",
+    "chapter": "第9章试题",
+    "text": "Brainstorming is one technique that may be used to derive a complete set of use case exceptions.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_9_95",
+    "chapter": "第9章试题",
+    "text": "In many cases there is no need to create a graphical representation of a usage scenario.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_9_96",
+    "chapter": "第9章试题",
+    "text": "UML activity diagrams are useful in representing which analysis model elements?",
+    "options": [
+      "A. Behavioral elements",
+      "B. Class-based elements",
+      "C. Flow-based elements",
+      "D. Scenario-based elements"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_9_97",
+    "chapter": "第9章试题",
+    "text": "UML swimnlane diagrams allow you to represent the flow of activities by showing the actors having responsibility for creating each data element.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_10_98",
+    "chapter": "第10章试题",
+    "text": "Which of the following should be considered as candidate objects in a problem space?",
+    "options": [
+      "A. events",
+      "B. people",
+      "C. structures",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_10_99",
+    "chapter": "第10章试题",
+    "text": "In the grammatical parse of a processing narrative the nouns become object candidates in the analysis model.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_10_100",
+    "chapter": "第10章试题",
+    "text": "Attributes are chosen for an object by examining the problem statement and identifying the entities that appear to be related.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_10_101",
+    "chapter": "第10章试题",
+    "text": "Which of the following is not one of the broad categories used to classify operations?",
+    "options": [
+      "A. computation",
+      "B. data manipulation",
+      "C. event monitors",
+      "D. transformers"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_10_102",
+    "chapter": "第10章试题",
+    "text": "Collaborators in CRC modeling are those classes needed to fulfill a responsibility on another card.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_10_103",
+    "chapter": "第10章试题",
+    "text": "Which of the following items does not appear on a CRC card?",
+    "options": [
+      "A. class collaborators",
+      "B. class name",
+      "C. class reliability",
+      "D. class responsibilities"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_10_104",
+    "chapter": "第10章试题",
+    "text": "Class responsibilities are defined by",
+    "options": [
+      "A. its attributes only",
+      "B. its collaborators",
+      "C. its operations only",
+      "D. both its attributes and operations"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_10_105",
+    "chapter": "第10章试题",
+    "text": "A stereotype is the basis for class reuse in UML modeling.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_10_106",
+    "chapter": "第10章试题",
+    "text": "An analysis package involves the categorization of analysis model elements into useful groupings.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_11_107",
+    "chapter": "第11章试题",
+    "text": "The behavior modeling is only used in the analysis of real-time systems.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_11_108",
+    "chapter": "第11章试题",
+    "text": "For purposes of behavior modeling an event occurs whenever",
+    "options": [
+      "A. a state and process exchange information.",
+      "B. the system an actor exchange information.",
+      "C. two actors exchange information.",
+      "D. two objects exchange information."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_11_109",
+    "chapter": "第11章试题",
+    "text": "For purposes of behavior modeling a state is any",
+    "options": [
+      "A. consumer or producer of data.",
+      "B. data object hierarchy.",
+      "C. observable mode of behavior.",
+      "D. well defined process."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_11_110",
+    "chapter": "第11章试题",
+    "text": "The state transition diagram",
+    "options": [
+      "A. depicts relationships between data objects",
+      "B. depicts functions that transform the data flow",
+      "C. indicates how data are transformed by the system",
+      "D. indicates system reactions to external events"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_11_111",
+    "chapter": "第11章试题",
+    "text": "The UML sequence diagram shows the order in which system events are processed.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_11_112",
+    "chapter": "第11章试题",
+    "text": "Analysis patterns are discovered, they are not explicitly created.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_11_113",
+    "chapter": "第11章试题",
+    "text": "It is not possible to justify the time required for mobile app requirements analysis.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_11_114",
+    "chapter": "第11章试题",
+    "text": "Which is not one of the analysis activities that is used to create a complete analysis model?",
+    "options": [
+      "A. Configuration analysis",
+      "B. Content analysis",
+      "C. Functional analysis",
+      "D. Market analysis"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_11_115",
+    "chapter": "第11章试题",
+    "text": "Content objects are extracted from use cases by examining the scenario description for direct or indirect content references.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_11_116",
+    "chapter": "第11章试题",
+    "text": "What are the elements of a WebApp interaction model?",
+    "options": [
+      "A. activity diagrams, sequence diagrams, state diagrams, interface prototype",
+      "B. activity diagrams, collaboration diagrams, sequence diagrams, state diagrams",
+      "C. use-cases, sequence diagrams, state diagrams, interface prototype",
+      "D. use-cases, sequence diagrams, state diagrams, sequence diagrams"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_11_117",
+    "chapter": "第11章试题",
+    "text": "UML activity diagrams can be used to represent the user observable functionality delivered by the WebApp as well as the operations contained in each analysis class.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_11_118",
+    "chapter": "第11章试题",
+    "text": "Configuration analysis focuses on the architecture of the user's web browsing environment.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_119",
+    "chapter": "第12章试题",
+    "text": "Which of the following are areas of concern in the design model?",
+    "options": [
+      "A. architecture",
+      "B. data",
+      "C. interfaces",
+      "D. project scope",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_12_120",
+    "chapter": "第12章试题",
+    "text": "The importance of software design can be summarized in a single word",
+    "options": [
+      "A. accuracy",
+      "B. complexity",
+      "C. efficiency",
+      "D. quality"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_12_121",
+    "chapter": "第12章试题",
+    "text": "Which of these are characteristics of a good design?",
+    "options": [
+      "A. exhibits strong coupling between its modules",
+      "B. implements all requirements in the analysis model",
+      "C. includes test cases for all components",
+      "D. provides a complete picture of the software",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_12_122",
+    "chapter": "第12章试题",
+    "text": "Which of the following is not a characteristic common to all design methods?",
+    "options": [
+      "A. configuration management",
+      "B. functional component representation",
+      "C. quality assessment guidelines",
+      "D. refinement heuristics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_12_123",
+    "chapter": "第12章试题",
+    "text": "What types of abstraction are used in software design?",
+    "options": [
+      "A. control",
+      "B. data",
+      "C. environmental",
+      "D. procedural",
+      "E. a, b, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_12_124",
+    "chapter": "第12章试题",
+    "text": "Which of the following can be used to represent the architectural design of a piece of software?",
+    "options": [
+      "A. Dynamic models",
+      "B. Functional models",
+      "C. Structural models",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_12_125",
+    "chapter": "第12章试题",
+    "text": "Design patterns are not applicable to the design of object-oriented software?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_126",
+    "chapter": "第12章试题",
+    "text": "Since modularity is an important design goal it is not possible to have too many modules in a proposed design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_127",
+    "chapter": "第12章试题",
+    "text": "Information hiding makes program maintenance easier by hiding data and procedure from unaffected parts of the program.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_12_128",
+    "chapter": "第12章试题",
+    "text": "Cohesion is a qualitative indication of the degree to which a module",
+    "options": [
+      "A. can be written more compactly.",
+      "B. focuses on just one thing.",
+      "C. is able to complete its function in a timely manner.",
+      "D. is connected to other modules and the outside world."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_129",
+    "chapter": "第12章试题",
+    "text": "Coupling is a qualitative indication of the degree to which a module",
+    "options": [
+      "A. can be written more compactly.",
+      "B. focuses on just one thing.",
+      "C. is able to complete its function in a timely manner.",
+      "D. is connected to other modules and the outside world."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_12_130",
+    "chapter": "第12章试题",
+    "text": "When using structured design methodologies the process of stepwise refinement is unnecessary.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_131",
+    "chapter": "第12章试题",
+    "text": "Software designs are refactored to allow the creation of software that is easier to integrate, easier to test, and easier to maintain.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_12_132",
+    "chapter": "第12章试题",
+    "text": "Which of the following is not one of the five design class types",
+    "options": [
+      "A. Business domain classes",
+      "B. Entity classes",
+      "C. Process classes",
+      "D. User interface classes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_133",
+    "chapter": "第12章试题",
+    "text": "Which design model elements are used to depict a model of information represented from the user's view?",
+    "options": [
+      "A. Architectural design elements",
+      "B. Component-level design elements",
+      "C. Data design elements",
+      "D. Interface design elements"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_12_134",
+    "chapter": "第12章试题",
+    "text": "Which design is equivalent to the floor plan of a house?",
+    "options": [
+      "A. Architectural design",
+      "B. Component-level design",
+      "C. Data design",
+      "D. Interface design"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_12_135",
+    "chapter": "第12章试题",
+    "text": "Which design model is equivalent to the detailed drawings of the access points and external utilities for a house?",
+    "options": [
+      "A. Architectural design",
+      "B. Component-level design",
+      "C. Data design",
+      "D. Interface design"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_12_136",
+    "chapter": "第12章试题",
+    "text": "Which design model is equivalent to a set of detailed drawings for each room in a house?",
+    "options": [
+      "A. Architectural design",
+      "B. Component-level design",
+      "C. Data design",
+      "D. Interface design"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_12_137",
+    "chapter": "第12章试题",
+    "text": "The deployment design elements specify the build order for the software components.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_138",
+    "chapter": "第13章试题",
+    "text": "The best representation of system architecture is an operational software prototype.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_139",
+    "chapter": "第13章试题",
+    "text": "The architectural representations can be an enabler for communication among project stakeholders.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_140",
+    "chapter": "第13章试题",
+    "text": "An architectural description is often documented using an architecture template.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_141",
+    "chapter": "第13章试题",
+    "text": "An architectural decision is often documented using an architecture decision description template.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_142",
+    "chapter": "第13章试题",
+    "text": "An architectural genre will often dictate the architectural approach that may used for the structure to be built.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_143",
+    "chapter": "第13章试题",
+    "text": "An architectural style encompasses which of the following elements?",
+    "options": [
+      "A. constraints",
+      "B. set of components",
+      "C. semantic models",
+      "D. syntactic models",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_13_144",
+    "chapter": "第13章试题",
+    "text": "To determine the architectural style or combination of styles that best fits the proposed system, requirements engineering is used to uncover",
+    "options": [
+      "A. algorithmic complexity",
+      "B. characteristics and constraints",
+      "C. control and data",
+      "D. design patterns"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_145",
+    "chapter": "第13章试题",
+    "text": "Before an architectural pattern can be chosen for use in a specific system it must have a code implementation to facilitate its reuse.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_146",
+    "chapter": "第13章试题",
+    "text": "The criteria used to assess the quality of an architectural design should be based on system",
+    "options": [
+      "A. accessibility",
+      "B. control",
+      "C. data",
+      "D. implementation",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_13_147",
+    "chapter": "第13章试题",
+    "text": "Software architectural considerations often interact with each other and moderate each other.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_148",
+    "chapter": "第13章试题",
+    "text": "Developer notes are not a reliable means of documenting architectural decisions",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_149",
+    "chapter": "第13章试题",
+    "text": "During process of modeling the system in context, systems that interact with the target system are represented as",
+    "options": [
+      "A. Peer-level systems",
+      "B. Subordinate systems",
+      "C. Superordinate systems",
+      "D. Working systems",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_13_150",
+    "chapter": "第13章试题",
+    "text": "Once selected, archetypes always need to be refined further as architectural design proceeds.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_151",
+    "chapter": "第13章试题",
+    "text": "Which of the following is not an example of infrastructure components that may need to be integrated into the software architecture?",
+    "options": [
+      "A. Communications components",
+      "B. Database components",
+      "C. Interface components",
+      "D. Memory management components"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_13_152",
+    "chapter": "第13章试题",
+    "text": "In the architecture trade-off analysis method the architectural style should be described using the",
+    "options": [
+      "A. data flow view",
+      "B. module view",
+      "C. process view",
+      "D. user view",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_13_153",
+    "chapter": "第13章试题",
+    "text": "A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component",
+    "options": [
+      "A. cohesion",
+      "B. flow dependencies",
+      "C. sharing dependencies",
+      "D. size",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_13_154",
+    "chapter": "第13章试题",
+    "text": "Software architects need to create consensus among software team members and other stakeholders.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_155",
+    "chapter": "第13章试题",
+    "text": "Pattern-based architectural reviews can be useful for project with short build cycles and volatile requirements.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_13_156",
+    "chapter": "第13章试题",
+    "text": "Static architectural conformance checking assesses whether or not the source code matches the user visible requirements.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_13_157",
+    "chapter": "第13章试题",
+    "text": "Architectural design has no role in agile software process models.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_14_158",
+    "chapter": "第14章试题",
+    "text": "In the most general sense a component is a modular building block for computer software.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_159",
+    "chapter": "第14章试题",
+    "text": "In the context of object-oriented software engineering a component contains",
+    "options": [
+      "A. attributes and operations",
+      "B. instances of each class",
+      "C. roles for each actor (device or user)",
+      "D. set of collaborating classes"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_14_160",
+    "chapter": "第14章试题",
+    "text": "In traditional software engineering modules must serve in which of the following roles?",
+    "options": [
+      "A. Control component",
+      "B. Infrastructure component",
+      "C. Problem domain component",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_14_161",
+    "chapter": "第14章试题",
+    "text": "Software engineers always need to cerate components from scratch in order to meet customer expectations fully.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_14_162",
+    "chapter": "第14章试题",
+    "text": "Which of the following is not one of the four principles used to guide component-level design?",
+    "options": [
+      "A. Dependency Inversion Principle",
+      "B. Interface Segregation Principle",
+      "C. Open-Closed Principle",
+      "D. Parsimonious Complexity Principle"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_14_163",
+    "chapter": "第14章试题",
+    "text": "The use of stereotypes can help identify the nature of components at the detailed design level.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_164",
+    "chapter": "第14章试题",
+    "text": "Classes and components that exhibit functional, layer, or communicational cohesion are relatively easy to implement, test, and maintain.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_165",
+    "chapter": "第14章试题",
+    "text": "Software coupling is a sign of poor architectural design and can always be avoided in every system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_14_166",
+    "chapter": "第14章试题",
+    "text": "In component design elaboration requires which of the following elements to be describe in detail?",
+    "options": [
+      "A. Algorithms",
+      "B. Attributes",
+      "C. Interfaces",
+      "D. Operations",
+      "E. b, c, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_14_167",
+    "chapter": "第14章试题",
+    "text": "In component-level design persistent data sources refer to",
+    "options": [
+      "A. Component libraries",
+      "B. Databases",
+      "C. Files",
+      "D. All of the above",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_14_168",
+    "chapter": "第14章试题",
+    "text": "WebApp content design at the component level focuses on content objects and the manner in which they interact.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_14_169",
+    "chapter": "第14章试题",
+    "text": "A WebApp functional architecture describes the key functional components and how they interact with each other.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_170",
+    "chapter": "第14章试题",
+    "text": "Component-level design for mobile apps is not any different from component-based design for Web apps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_171",
+    "chapter": "第14章试题",
+    "text": "Which of these constructs is used in structured programming?",
+    "options": [
+      "A. branching",
+      "B. condition",
+      "C. repetition",
+      "D. sequence",
+      "E. b, c, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_14_172",
+    "chapter": "第14章试题",
+    "text": "In component-based software engineering, the development team examines the requirements to see which are amenable to composition, rather than construction, before beginning detailed design tasks.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_173",
+    "chapter": "第14章试题",
+    "text": "Which of the following is not one of the major activities of domain engineering?",
+    "options": [
+      "A. analysis",
+      "B. construction",
+      "C. dissemination",
+      "D. validation"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_14_174",
+    "chapter": "第14章试题",
+    "text": "Which of the following factors would not be considered during component qualification?",
+    "options": [
+      "A. application programming interface (API)",
+      "B. development and integration tools required",
+      "C. exception handling",
+      "D. testing equipment required"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_14_175",
+    "chapter": "第14章试题",
+    "text": "Which is the following is a technique used for component wrapping?",
+    "options": [
+      "A. black-box wrapping",
+      "B. clear-box wrapping",
+      "C. gray-box wrapping",
+      "D. white-box wrapping"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_14_176",
+    "chapter": "第14章试题",
+    "text": "Which of the following is not one of the issues that form a basis for design for reuse?",
+    "options": [
+      "A. object-oriented programming",
+      "B. program templates",
+      "C. standard data",
+      "D. standard interface protocols"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_14_177",
+    "chapter": "第14章试题",
+    "text": "In a reuse environment, library queries are often characterized using the ________ element of the 3C Model.",
+    "options": [
+      "A. concept",
+      "B. content",
+      "C. context",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_15_178",
+    "chapter": "第15章试题",
+    "text": "Which of the following interface design principles does not allow the user to remain in control of the interaction with a computer?",
+    "options": [
+      "A. allow interaction to interruptible",
+      "B. allow interaction to be undoable",
+      "C. hide technical internals from casual users",
+      "D. only provide one rigidly defined method for accomplishing a task"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_15_179",
+    "chapter": "第15章试题",
+    "text": "Which of the following interface design principles reduce the user's memory load?",
+    "options": [
+      "A. define intuitive shortcuts",
+      "B. disclose information in a progressive fashion",
+      "C. establish meaningful defaults",
+      "D. provide an on-line tutorial",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_15_180",
+    "chapter": "第15章试题",
+    "text": "The reason for reducing the user's memory load is make his or her interaction with the computer quicker to complete.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_15_181",
+    "chapter": "第15章试题",
+    "text": "Interface consistency implies that",
+    "options": [
+      "A. each application should have its own distinctive look and feel",
+      "B. input mechanisms remain the same throughout the application",
+      "C. navigational methods are context sensitive",
+      "D. visual information is organized according to a design standard",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_15_182",
+    "chapter": "第15章试题",
+    "text": "If past interactive models have created certain user expectations it is not generally good to make changes to the model.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_183",
+    "chapter": "第15章试题",
+    "text": "Which model depicts the profile of the end users of a computer system?",
+    "options": [
+      "A. design model",
+      "B. implementation model",
+      "C. user model",
+      "D. user's model"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_15_184",
+    "chapter": "第15章试题",
+    "text": "Which model depicts the image of a system that an end user creates in his or her head?",
+    "options": [
+      "A. design model",
+      "B. user model",
+      "C. system model",
+      "D. system perception"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_15_185",
+    "chapter": "第15章试题",
+    "text": "Which model depicts the look and feel of the user interface along with all supporting information?",
+    "options": [
+      "A. implementation model",
+      "B. user model",
+      "C. user's model",
+      "D. system perception"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_186",
+    "chapter": "第15章试题",
+    "text": "Which of these framework activities is not normally associated with the user interface design processes?",
+    "options": [
+      "A. cost estimation",
+      "B. interface construction",
+      "C. interface validation",
+      "D. user and task analysis"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_187",
+    "chapter": "第15章试题",
+    "text": "Which approach(es) to user task analysis can be useful in user interface design?",
+    "options": [
+      "A. have users indicate their preferences on questionnaires",
+      "B. rely on the judgement of experienced programmers",
+      "C. study existing computer-based solutions",
+      "D. observe users performing tasks manually",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_15_188",
+    "chapter": "第15章试题",
+    "text": "Object-oriented analysis techniques can be used to identify and refine user task objects and actions without any need to refer to the user voice.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_15_189",
+    "chapter": "第15章试题",
+    "text": "The computer's display capabilities are the primary determinant of the order in which user interface design activities are completed.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_15_190",
+    "chapter": "第15章试题",
+    "text": "It is sometimes possible that the interface designer is constrained by environmental factors that mitigate against ease of use for many users.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_191",
+    "chapter": "第15章试题",
+    "text": "One means of defining user interface objects and actions is to conduct a grammatical parse of the user scenario.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_192",
+    "chapter": "第15章试题",
+    "text": "Interface design patterns typically include a complete component-level design (design classes, attributes, operations, and interfaces).",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_15_193",
+    "chapter": "第15章试题",
+    "text": "Several common design issues surface for almost every user interface including",
+    "options": [
+      "A. adaptive user profiles",
+      "B. error handling",
+      "C. resolution of graphics displays",
+      "D. system response time",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_15_194",
+    "chapter": "第15章试题",
+    "text": "It is more important to capture the user's attention with flashy features than ergonomically sound screen layouts when building a WebApp.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_15_195",
+    "chapter": "第15章试题",
+    "text": "Several usability measures can be collected while observing users interacting with a computer system including",
+    "options": [
+      "A. down time for the application",
+      "B. number of user errors",
+      "C. software reliability",
+      "D. time spent looking at help materials",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_16_196",
+    "chapter": "第16章试题",
+    "text": "Which of the following is not one of the elements of a design pattern?",
+    "options": [
+      "A. context",
+      "B. environment",
+      "C. problem",
+      "D. solution"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_16_197",
+    "chapter": "第16章试题",
+    "text": "RubberNecking is an example of a classic generative pattern.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_16_198",
+    "chapter": "第16章试题",
+    "text": "A frame work is a reusable mini-architecture that serves as a foundation which other design patterns can be applied?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_199",
+    "chapter": "第16章试题",
+    "text": "Finding patterns built by others that address design problems is often more difficult that recognizing patterns in the application to be built.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_200",
+    "chapter": "第16章试题",
+    "text": "A pattern language",
+    "options": [
+      "A. encompasses a collection of patterns",
+      "B. is implemented using hypertext",
+      "C. resembles the structure of natural languages",
+      "D. None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_201",
+    "chapter": "第16章试题",
+    "text": "The concepts and techniques discussed for ___________ can be used in the conjunction with a pattern-based approach.",
+    "options": [
+      "A. Architectural design",
+      "B. Component-level design",
+      "C. User interface design",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_16_202",
+    "chapter": "第16章试题",
+    "text": "It is important to reduce the coupling among design patterns so that they can be treated as independent entities.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_16_203",
+    "chapter": "第16章试题",
+    "text": "Real life design solutions may not always lend themselves to a top-down approach.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_204",
+    "chapter": "第16章试题",
+    "text": "Which of the following problem types are used to label columns in a pattern organizing table?",
+    "options": [
+      "A. Business",
+      "B. Context",
+      "C. Database",
+      "D. Infrastructure",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_16_205",
+    "chapter": "第16章试题",
+    "text": "Most mistakes in pattern-based design can be avoided by judicious use of review techniques.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_206",
+    "chapter": "第16章试题",
+    "text": "Before choosing an architectural design pattern it must be assessed for its appropriateness to the application and overall architectural style.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_16_207",
+    "chapter": "第16章试题",
+    "text": "Unlike architectural patterns, component-level design patterns may be applied to solve subproblems without regard to system context.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_16_208",
+    "chapter": "第16章试题",
+    "text": "Most user interface design patterns fall with in one of ____ categories of patterns.",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 25",
+      "D. 100"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_16_209",
+    "chapter": "第16章试题",
+    "text": "WebApp design patterns can be classified by considering which of the dimensions listed below?",
+    "options": [
+      "A. Aesthetics",
+      "B. Design focus",
+      "C. Granularity",
+      "D. Usability",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_16_210",
+    "chapter": "第16章试题",
+    "text": "Which of the following are levels of design focus that can be used to categorize WebApp patterns?",
+    "options": [
+      "A. Behavioral patterns",
+      "B. Functional patterns",
+      "C. Layout patterns",
+      "D. Navigation patterns",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_16_211",
+    "chapter": "第16章试题",
+    "text": "Which of the levels of granularity that can be used to describe WebApp patterns?",
+    "options": [
+      "A. Architectural patterns",
+      "B. Component patterns",
+      "C. Design patterns",
+      "D. Interactions patterns",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_16_212",
+    "chapter": "第16章试题",
+    "text": "Mobile app user interface patterns can be represented as a collection of best of breed screen images.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_213",
+    "chapter": "第17章试题",
+    "text": "Which of the following characteristics should not be used to assess the quality of a WebApp?",
+    "options": [
+      "A. aesthetics",
+      "B. reliability",
+      "C. maintainability",
+      "D. usability"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_214",
+    "chapter": "第17章试题",
+    "text": "Which of the following are design goals for every WebApp?",
+    "options": [
+      "A. Simplicity",
+      "B. Consistency",
+      "C. Navigability",
+      "D. Visual appeal",
+      "E. All of the above."
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_17_215",
+    "chapter": "第17章试题",
+    "text": "Which of the following not part of the design pyramid for WebE design?",
+    "options": [
+      "A. Architectural design",
+      "B. Business case design",
+      "C. Content design",
+      "D. Navigation design"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_216",
+    "chapter": "第17章试题",
+    "text": "With WebApps content is everything, a poorly defined user interface will be quickly overlooked by frequent users.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_217",
+    "chapter": "第17章试题",
+    "text": "Which of these are WebApp interaction mechanisms?",
+    "options": [
+      "A. Graphic icons",
+      "B. Graphic images",
+      "C. Navigation menus",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_17_218",
+    "chapter": "第17章试题",
+    "text": "Screen layout design has several widely accepted standards based on human factors research.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_219",
+    "chapter": "第17章试题",
+    "text": "Graphic design considers every aspect of the look and feel of a WebApp.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_220",
+    "chapter": "第17章试题",
+    "text": "Content design is conducted by",
+    "options": [
+      "A. Copywriters and graphic designer",
+      "B. Web engineers",
+      "C. both a and b",
+      "D. none of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_17_221",
+    "chapter": "第17章试题",
+    "text": "Content objects have both information attributes defined during analysis and implementation specific attributes specified during design.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_222",
+    "chapter": "第17章试题",
+    "text": "Content objects are not normally chunked into Web pages until the implementation activities begin.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_223",
+    "chapter": "第17章试题",
+    "text": "Content architecture and WebApp architecture are pretty much the same thing for many WebApps?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_224",
+    "chapter": "第17章试题",
+    "text": "Which of the following is not one of the content architectural structures used by web engineers?",
+    "options": [
+      "A. linear",
+      "B. grid",
+      "C. hierarchical",
+      "D. parallel"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_17_225",
+    "chapter": "第17章试题",
+    "text": "MVC is a three layer architecture that contains a",
+    "options": [
+      "A. machine, view, content objects",
+      "B. model, view, and content objects",
+      "C. model, view, and controller",
+      "D. machine, view, controller"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_17_226",
+    "chapter": "第17章试题",
+    "text": "Web navigational design involves creating a semantic navigational unit for each goal associated with each defined user role.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_227",
+    "chapter": "第17章试题",
+    "text": "To allow the user to feel in control of a WebApp, it is a good idea to mix both horizontal and vertical navigation mechanisms on the same page.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_17_228",
+    "chapter": "第17章试题",
+    "text": "Component level design for WebApps is very similar to component level design for other software delivery environments.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_17_229",
+    "chapter": "第17章试题",
+    "text": "Which of these is not one of the design activities associated with object-oriented hypermedia design?",
+    "options": [
+      "A. abstract interface design",
+      "B. conceptual design",
+      "C. content design",
+      "D. navigational design"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_17_230",
+    "chapter": "第17章试题",
+    "text": "UML does not have any representation schemas that are useful in building WebApp design models.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_18_231",
+    "chapter": "第18章试题",
+    "text": "MobileApps must be designed take intermittent connectivity outages.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_18_232",
+    "chapter": "第18章试题",
+    "text": "Modern electronics allow developers to ignore the power demands made by a MobileApp.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_18_233",
+    "chapter": "第18章试题",
+    "text": "A MobileApp is assessed for usability and accessibility before beginning the next increment begins.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_18_234",
+    "chapter": "第18章试题",
+    "text": "Which of the following characteristics should not be used to assess the quality of a MobileApp?",
+    "options": [
+      "A. aesthetics",
+      "B. reliability",
+      "C. maintainability",
+      "D. usability"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_18_235",
+    "chapter": "第18章试题",
+    "text": "Quality function deployment is not necessary when implementing MobileApp user stories?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_18_236",
+    "chapter": "第18章试题",
+    "text": "Using highly adaptive contextual interfaces is a good way to deal with device limitations like screen size.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_18_237",
+    "chapter": "第18章试题",
+    "text": "Which of the following are common MobileApp design mistakes.",
+    "options": [
+      "A. Inconsistency",
+      "B. Interoperability",
+      "C. Lean design",
+      "D. Overdesigning",
+      "E. a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_18_238",
+    "chapter": "第18章试题",
+    "text": "It is better to multiple short pages than long scrolling forms when implementing mobile device user interfaces.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_18_239",
+    "chapter": "第18章试题",
+    "text": "Java is the best programming language to use when you want to create portable MobileApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_18_240",
+    "chapter": "第18章试题",
+    "text": "Service computing allows you to avoid the need to integrate service source code into the mobile device client.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_18_241",
+    "chapter": "第18章试题",
+    "text": "The most important MobileApp architecture decision whether to build a thin or fat mobile client.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_242",
+    "chapter": "第19章试题",
+    "text": "Quality of conformance focuses on the degree to which the implementation of a design meets its requirements and performance goals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_243",
+    "chapter": "第19章试题",
+    "text": "Which of the following is not one of the attributes of software quality?",
+    "options": [
+      "A. Adds value for developers and users",
+      "B. Effective software process creates infrastructure",
+      "C. Removes need to consider performance issues",
+      "D. Useful products satisfy stakeholder requirements"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_19_244",
+    "chapter": "第19章试题",
+    "text": "Product quality can only be assessed by measuring hard quality factors.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_245",
+    "chapter": "第19章试题",
+    "text": "Many software metrics can only be measured indirectly.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_246",
+    "chapter": "第19章试题",
+    "text": "Which of the following are ISO 9126 software quality factors?",
+    "options": [
+      "A. Functionality",
+      "B. Portability",
+      "C. Reliability",
+      "D. Visual appeal",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_19_247",
+    "chapter": "第19章试题",
+    "text": "Developers need to create a collection of targeted questions to asses each quality factor.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_248",
+    "chapter": "第19章试题",
+    "text": "Software metrics represent direct measures of some manifestation of quality.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_19_249",
+    "chapter": "第19章试题",
+    "text": "The quality dilemma might be summarized as choosing between building things quickly or building things correctly.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_19_250",
+    "chapter": "第19章试题",
+    "text": "Good enough software delivers high quality software functions along with specialized functions that contain known bugs.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_251",
+    "chapter": "第19章试题",
+    "text": "Which of the following is likely to be the most expensive cost of quality?",
+    "options": [
+      "A. Appraisal costs",
+      "B. External failure costs",
+      "C. Internal failure costs",
+      "D. Prevention costs"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_19_252",
+    "chapter": "第19章试题",
+    "text": "Poor quality leads to software risks that can become serious?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_253",
+    "chapter": "第19章试题",
+    "text": "When a system fails to deliver required functions it is because the customer changes requirements?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_19_254",
+    "chapter": "第19章试题",
+    "text": "Developers must start focusing on quality during the design phase in order to build secure systems.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_255",
+    "chapter": "第19章试题",
+    "text": "Which of the following management decisions have the potential to impact software quality?",
+    "options": [
+      "A. Estimation decisions",
+      "B. Risk-oriented decisions",
+      "C. Scheduling decisions",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_19_256",
+    "chapter": "第19章试题",
+    "text": "The project plan should include explicit techniques for _______ and _______ management?",
+    "options": [
+      "A. change",
+      "B. cost",
+      "C. error",
+      "D. quality",
+      "E. a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_19_257",
+    "chapter": "第19章试题",
+    "text": "Quality control encompasses a set of software engineering actions that help to ensure that each work product meets its quality goals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_19_258",
+    "chapter": "第19章试题",
+    "text": "The goal of quality assurance to insure that a software project is error free.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_20_259",
+    "chapter": "第20章试题",
+    "text": "The purpose of software reviews is to uncover errors and defects in work products so they can be removed before moving on to the next phase of development.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_20_260",
+    "chapter": "第20章试题",
+    "text": "In general the earlier a software defect is discovered and corrected the less costly to the overall project budget.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_20_261",
+    "chapter": "第20章试题",
+    "text": "Defect amplification models can be used to illustrate the costs associated with using software from its initial deployment to its retirement.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_20_262",
+    "chapter": "第20章试题",
+    "text": "Review metrics can be used to assess the efficacy of each review activity.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_20_263",
+    "chapter": "第20章试题",
+    "text": "Defect density can be estimated for any software engineering work product.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_20_264",
+    "chapter": "第20章试题",
+    "text": "Agile software developers are aware that software reviews always take time without saving any.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_20_265",
+    "chapter": "第20章试题",
+    "text": "The level of review formality is determined by which of the following?",
+    "options": [
+      "A. amount of preparation",
+      "B. reviewer follow-up",
+      "C. size of project budget",
+      "D. structure of review",
+      "E. a, b, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_20_266",
+    "chapter": "第20章试题",
+    "text": "An informal review may consist of which of the following?",
+    "options": [
+      "A. casual meeting",
+      "B. desk check",
+      "C. inspection",
+      "D. pair programming",
+      "E. a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_20_267",
+    "chapter": "第20章试题",
+    "text": "Which of the following are objectives for formal technical reviews?",
+    "options": [
+      "A. allow senior staff members to correct errors",
+      "B. assess programmer productivity",
+      "C. determining who introduced an error into a program",
+      "D. uncover errors in software work products"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_20_268",
+    "chapter": "第20章试题",
+    "text": "At the end of a formal technical review all attendees can decide to",
+    "options": [
+      "A. accept the work product without modification",
+      "B. modify the work product and continue the review",
+      "C. reject the product due to stylistic discrepancies",
+      "D. reject the product due to severe errors",
+      "E. a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_20_269",
+    "chapter": "第20章试题",
+    "text": "A review summary report answers which three questions?",
+    "options": [
+      "A. terminate project, replace producer, request a time extension",
+      "B. what defects were found, what caused defects, who was responsible",
+      "C. what was reviewed, who reviewed it, what were the findings",
+      "D. none of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_20_270",
+    "chapter": "第20章试题",
+    "text": "In any type of technical review, the focus of the review is on the product and not the producer.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_20_271",
+    "chapter": "第20章试题",
+    "text": "Sample driven reviews only make sense for very small software development projects.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_272",
+    "chapter": "第21章试题",
+    "text": "Software quality might be defined as conformance to explicitly stated requirements and standards, nothing more and nothing less.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_273",
+    "chapter": "第21章试题",
+    "text": "People who perform software quality assurance must look at the software from the customer's perspective.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_21_274",
+    "chapter": "第21章试题",
+    "text": "The elements of software quality assurance consist of reviews, audits, and testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_275",
+    "chapter": "第21章试题",
+    "text": "Which of these activities is not one of the activities recommended to be performed by an independent SQA group?",
+    "options": [
+      "A. prepare SQA plan for the project",
+      "B. review software engineering activities to verify process compliance",
+      "C. report any evidence of noncompliance to senior management",
+      "D. serve as the sole test team for any software produced"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_21_276",
+    "chapter": "第21章试题",
+    "text": "Metrics can be used to indicate the relative strength of a software quality attribute.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_21_277",
+    "chapter": "第21章试题",
+    "text": "Attempts to apply mathematical proof to demonstrate that a program conforms to its specifications are doomed to failure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_278",
+    "chapter": "第21章试题",
+    "text": "Statistical quality assurance involves",
+    "options": [
+      "A. using sampling in place of exhaustive testing of software",
+      "B. surveying customers to find out their opinions about product quality",
+      "C. tracing each defect to its underlying cause, isolating the \"vital few\" causes, and moving to correct them",
+      "D. tracing each defect to its underlying causes and using the Pareto principle to correct each problem found"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_21_279",
+    "chapter": "第21章试题",
+    "text": "Six Sigma methodology defines three core steps.",
+    "options": [
+      "A. analyze, improve, control",
+      "B. analyze, design, verify",
+      "C. define, measure, analyze",
+      "D. define, measure, control"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_21_280",
+    "chapter": "第21章试题",
+    "text": "Software reliability problems can almost always be traced to",
+    "options": [
+      "A. errors in accuracy",
+      "B. errors in design",
+      "C. errors in implementation",
+      "D. errors in operation",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_21_281",
+    "chapter": "第21章试题",
+    "text": "Software safety is a quality assurance activity that focuses on hazards that",
+    "options": [
+      "A. affect the reliability of a software component",
+      "B. may cause an entire system to fail",
+      "C. may result from user input errors",
+      "D. prevent profitable marketing of the final product"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_282",
+    "chapter": "第21章试题",
+    "text": "The ISO quality assurance standard that applies to software engineering is",
+    "options": [
+      "A. ISO 9000",
+      "B. ISO 9001",
+      "C. ISO 9002",
+      "D. ISO 9003"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_21_283",
+    "chapter": "第21章试题",
+    "text": "Which of the following is not a section in the standard for SQA plans recommended by IEEE?",
+    "options": [
+      "A. budget",
+      "B. documentation",
+      "C. reviews and audits",
+      "D. test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_284",
+    "chapter": "第22章试题",
+    "text": "In software quality assurance work there is no difference between software verification and software validation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_285",
+    "chapter": "第22章试题",
+    "text": "The best reason for using Independent software test teams is that",
+    "options": [
+      "A. software developers do not need to do any testing",
+      "B. strangers will test the software mercilessly",
+      "C. testers do not get involved with the project until testing begins",
+      "D. the conflicts of interest between developers and testers is reduced"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_22_286",
+    "chapter": "第22章试题",
+    "text": "What is the normal order of activities in which traditional software testing is organized?",
+    "options": [
+      "A. integration testing, system testing, unit testing, validation testing.",
+      "B. unit testing, validation testing, system testing, integration testing",
+      "C. unit testing, integration testing, validation testing, system testing",
+      "D. validation testing, system testing, integration testing, unit testing"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_22_287",
+    "chapter": "第22章试题",
+    "text": "By collecting software metrics and making use of existing software reliability models it is possible to develop meaningful guidelines for determining when software testing is done.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_288",
+    "chapter": "第22章试题",
+    "text": "Which of the following strategic issues needs to be addressed in a successful software testing process?",
+    "options": [
+      "A. conduct formal technical reviews prior to testing",
+      "B. specify requirements in a quantifiable manner",
+      "C. use independent test teams",
+      "D. wait till code is written prior to writing the test plan",
+      "E. a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_22_289",
+    "chapter": "第22章试题",
+    "text": "Which of the following need to be assessed during unit testing?",
+    "options": [
+      "A. algorithmic performance",
+      "B. code stability",
+      "C. error handling",
+      "D. execution paths",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_22_290",
+    "chapter": "第22章试题",
+    "text": "Units and stubs are not needed for unit testing because the modules are tested independently of one another.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_291",
+    "chapter": "第22章试题",
+    "text": "Top-down integration testing has as it's major advantage(s) that",
+    "options": [
+      "A. low level modules never need testing",
+      "B. major decision points are tested early",
+      "C. no drivers need to be written",
+      "D. no stubs need to be written",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_22_292",
+    "chapter": "第22章试题",
+    "text": "Bottom-up integration testing has as it's major advantage(s) that",
+    "options": [
+      "A. major decision points are tested early",
+      "B. no drivers need to be written",
+      "C. no stubs need to be written",
+      "D. regression testing is not required"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_22_293",
+    "chapter": "第22章试题",
+    "text": "Regression testing should be a normal part of integration testing because as a new module is added to the system new",
+    "options": [
+      "A. control logic is invoked",
+      "B. data flow paths are established",
+      "C. drivers require testing",
+      "D. all of the above",
+      "E. a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_22_294",
+    "chapter": "第22章试题",
+    "text": "Smoke testing might best be described as",
+    "options": [
+      "A. bulletproofing shrink-wrapped software",
+      "B. rolling integration testing",
+      "C. testing that hides implementation errors",
+      "D. unit testing for small programs"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_295",
+    "chapter": "第22章试题",
+    "text": "When testing object-oriented software it is important to test each class operation separately as part of the unit testing process.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_296",
+    "chapter": "第22章试题",
+    "text": "The OO testing integration strategy involves testing",
+    "options": [
+      "A. groups of classes that collaborate or communicate in some way",
+      "B. single operations as they are added to the evolving class implementation",
+      "C. operator programs derived from use-case scenarios",
+      "D. none of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_297",
+    "chapter": "第22章试题",
+    "text": "Since many WebApps evolve continuously, the testing process must be ongoing as well.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_298",
+    "chapter": "第22章试题",
+    "text": "Testing MobileApps is not different than testing WebApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_299",
+    "chapter": "第22章试题",
+    "text": "The focus of validation testing is to uncover places that s user will be able to observe failure of the software to conform to its requirements.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_300",
+    "chapter": "第22章试题",
+    "text": "Software validation is achieved through a series of tests performed by the user once the software is deployed in his or her work environment.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_301",
+    "chapter": "第22章试题",
+    "text": "Configuration reviews are not needed if regression testing has been rigorously applied during software integration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_302",
+    "chapter": "第22章试题",
+    "text": "Acceptance tests are normally conducted by the",
+    "options": [
+      "A. developer",
+      "B. end users",
+      "C. test team",
+      "D. systems engineers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_303",
+    "chapter": "第22章试题",
+    "text": "Recovery testing is a system test that forces the software to fail in a variety of ways and verifies that software is able to continue execution without interruption.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_304",
+    "chapter": "第22章试题",
+    "text": "Security testing attempts to verify that protection mechanisms built into a system protect it from improper penetration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_305",
+    "chapter": "第22章试题",
+    "text": "Stress testing examines the pressures placed on the user during system use in extreme environments.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_306",
+    "chapter": "第22章试题",
+    "text": "Performance testing is only important for real-time or embedded systems.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_22_307",
+    "chapter": "第22章试题",
+    "text": "Debugging is not testing, but always occurs as a consequence of testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_22_308",
+    "chapter": "第22章试题",
+    "text": "Which of the following is an approach to debugging?",
+    "options": [
+      "A. backtracking",
+      "B. brute force",
+      "C. cause elimination",
+      "D. code restructuring",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_23_309",
+    "chapter": "第23章试题",
+    "text": "With thorough testing it is possible to remove all defects from a program prior to delivery to the customer.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_310",
+    "chapter": "第23章试题",
+    "text": "Which of the following are characteristics of testable software?",
+    "options": [
+      "A. observability",
+      "B. simplicity",
+      "C. stability",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_23_311",
+    "chapter": "第23章试题",
+    "text": "The testing technique that requires devising test cases to demonstrate that each program function is operational is called",
+    "options": [
+      "A. black-box testing",
+      "B. glass-box testing",
+      "C. grey-box testing",
+      "D. white-box testing"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_23_312",
+    "chapter": "第23章试题",
+    "text": "The testing technique that requires devising test cases to exercise the internal logic of a software module is called",
+    "options": [
+      "A. behavioral testing",
+      "B. black-box testing",
+      "C. grey-box testing",
+      "D. white-box testing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_23_313",
+    "chapter": "第23章试题",
+    "text": "What types of errors are missed by black-box testing and can be uncovered by white-box testing?",
+    "options": [
+      "A. behavioral errors",
+      "B. logic errors",
+      "C. performance errors",
+      "D. typographical errors",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_23_314",
+    "chapter": "第23章试题",
+    "text": "Program flow graphs are identical to program flowcharts.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_315",
+    "chapter": "第23章试题",
+    "text": "The cyclomatic complexity metric provides the designer with information regarding the number of",
+    "options": [
+      "A. cycles in the program",
+      "B. errors in the program",
+      "C. independent logic paths in the program",
+      "D. statements in the program"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_23_316",
+    "chapter": "第23章试题",
+    "text": "The cyclomatic complexity of a program can be computed directly from a PDL representation of an algorithm without drawing a program flow graph.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_23_317",
+    "chapter": "第23章试题",
+    "text": "Condition testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "A. rely on basis path testing",
+      "B. exercise the logical conditions in a program module",
+      "C. select test paths based on the locations and uses of variables",
+      "D. focus on testing the validity of loop constructs"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_318",
+    "chapter": "第23章试题",
+    "text": "Data flow testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "A. rely on basis path testing",
+      "B. exercise the logical conditions in a program module",
+      "C. select test paths based on the locations and uses of variables",
+      "D. focus on testing the validity of loop constructs"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_23_319",
+    "chapter": "第23章试题",
+    "text": "Loop testing is a control structure testing technique where the criteria used to design test cases is that they",
+    "options": [
+      "A. rely basis path testing",
+      "B. exercise the logical conditions in a program module",
+      "C. select test paths based on the locations and uses of variables",
+      "D. focus on testing the validity of loop constructs"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_23_320",
+    "chapter": "第23章试题",
+    "text": "Black-box testing attempts to find errors in which of the following categories",
+    "options": [
+      "A. incorrect or missing functions",
+      "B. interface errors",
+      "C. performance errors",
+      "D. none of the above",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_23_321",
+    "chapter": "第23章试题",
+    "text": "Graph-based testing methods can only be used for object-oriented systems",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_322",
+    "chapter": "第23章试题",
+    "text": "Equivalence testing divides the input domain into classes of data from which test cases can be derived to reduce the total number of test cases that must be developed.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_23_323",
+    "chapter": "第23章试题",
+    "text": "Boundary value analysis can only be used to do white-box testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_324",
+    "chapter": "第23章试题",
+    "text": "Orthogonal array testing enables the test designer to maximize the coverage of the test cases devised for relatively small input domains.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_23_325",
+    "chapter": "第23章试题",
+    "text": "Test derived from behavioral class models should be based on the",
+    "options": [
+      "A. data flow diagram",
+      "B. object-relation diagram",
+      "C. state transition diagram",
+      "D. use-case diagram"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_23_326",
+    "chapter": "第23章试题",
+    "text": "Documentation does not need to be tested.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_23_327",
+    "chapter": "第23章试题",
+    "text": "Real-time applications add a new and potentially difficult element to the testing mix",
+    "options": [
+      "A. performance",
+      "B. reliability",
+      "C. security",
+      "D. time"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_24_328",
+    "chapter": "第24章试题",
+    "text": "It is not possible to test object-oriented software without including error discovery techniques applied to the system OOA and OOD models.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_329",
+    "chapter": "第24章试题",
+    "text": "The correctness of the OOA and OOD model is accomplished using formal technical reviews by the software quality assurance team.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_24_330",
+    "chapter": "第24章试题",
+    "text": "The consistency of object-oriented models may be judged by reviewing the CRC card model.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_331",
+    "chapter": "第24章试题",
+    "text": "Test case design for OO software is driven by the algorithmic detail of the individual operations.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_332",
+    "chapter": "第24章试题",
+    "text": "Integration testing of object-oriented software can be accomplished by which of the following testing strategies?",
+    "options": [
+      "A. Cluster testing",
+      "B. Glass-box testing",
+      "C. Thread-based testing",
+      "D. Use-based testing",
+      "E. a, c, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_24_333",
+    "chapter": "第24章试题",
+    "text": "Validation of object-oriented software focuses on user visible actions and outputs from the system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_334",
+    "chapter": "第24章试题",
+    "text": "Encapsulation of attributes and operations inside objects makes it easy to obtain object state information during testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_24_335",
+    "chapter": "第24章试题",
+    "text": "Use-cases can provide useful input into the design of black-box and state-based tests of OO software.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_336",
+    "chapter": "第24章试题",
+    "text": "Fault-based testing is best reserved for",
+    "options": [
+      "A. conventional software testing",
+      "B. operations and classes that are critical or suspect",
+      "C. use-case validation",
+      "D. white-box testing of operator algorithms"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_24_337",
+    "chapter": "第24章试题",
+    "text": "Scenario-based testing",
+    "options": [
+      "A. concentrates on actor and software interaction",
+      "B. misses errors in specifications",
+      "C. misses errors in subsystem interactions",
+      "D. both a and b"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_338",
+    "chapter": "第24章试题",
+    "text": "Random order tests are conducted to exercise different class instance life histories.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_24_339",
+    "chapter": "第24章试题",
+    "text": "Which of these techniques is not useful for partition testing at the class level",
+    "options": [
+      "A. attribute-based partitioning",
+      "B. category-based partitioning",
+      "C. equivalence class partitioning",
+      "D. state-based partitioning"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_24_340",
+    "chapter": "第24章试题",
+    "text": "Multiple class testing is too complex to be tested using random test cases.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_24_341",
+    "chapter": "第24章试题",
+    "text": "The state model can be used to derive test cases based on the dynamic behavior of an object-oriented system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_342",
+    "chapter": "第25章试题",
+    "text": "Which of the following is not one of the dimensions of quality used to assess a WebApp?",
+    "options": [
+      "A. Content",
+      "B. Maintainability",
+      "C. Navigability",
+      "D. Usability"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_343",
+    "chapter": "第25章试题",
+    "text": "WebApps require special testing methodologies because WebApp errors have several unique characteristics.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_344",
+    "chapter": "第25章试题",
+    "text": "Since WebnApps evolve continuously, the testing process is an on-going activity, conducted by the Web support staff using regression tests.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_345",
+    "chapter": "第25章试题",
+    "text": "Test planning is not used in WebApp testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_346",
+    "chapter": "第25章试题",
+    "text": "As the WebApp architecture is constructed which types of testing are used as integration tests?",
+    "options": [
+      "A. Component testing",
+      "B. Content testing",
+      "C. Navigation testing",
+      "D. Usability testing",
+      "E. both a and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_25_347",
+    "chapter": "第25章试题",
+    "text": "Which of the following is not one of the objectives of WebApp content testing?",
+    "options": [
+      "A. Find organizational or structure errors",
+      "B. Identify linking errors",
+      "C. Uncover semantic errors",
+      "D. Uncover syntactic errors"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_348",
+    "chapter": "第25章试题",
+    "text": "Database testing is very rarely a part of WebApp content testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_349",
+    "chapter": "第25章试题",
+    "text": "The overall strategy for interface testing is to uncover errors",
+    "options": [
+      "A. in navigation semantics",
+      "B. in overall usabililty",
+      "C. related to specific interface mechanisms",
+      "D. both a and c"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_25_350",
+    "chapter": "第25章试题",
+    "text": "Which of the following is not a WebApp interface mechanism?",
+    "options": [
+      "A. Browser",
+      "B. Cookies",
+      "C. Forms",
+      "D. Links"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_25_351",
+    "chapter": "第25章试题",
+    "text": "When testing WebApp interface semantics, each use-case is used as input for the design of a testing sequence.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_352",
+    "chapter": "第25章试题",
+    "text": "Usability tests should be designed and executed by intended users for a given WebApp.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_353",
+    "chapter": "第25章试题",
+    "text": "WebApp compatibility testing is conducted to be sure that the user model for usage scenario matched the user category assigned to a given user.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_354",
+    "chapter": "第25章试题",
+    "text": "Which test case design technique(s) are appropriate for WebApp component-level testing?",
+    "options": [
+      "A. Boundary value analysis",
+      "B. Equivalence partitioning",
+      "C. Path testing",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_25_355",
+    "chapter": "第25章试题",
+    "text": "The purpose of WebApp navigation syntactic testing is to ensure the correct appearance of each navigation mechanism.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_25_356",
+    "chapter": "第25章试题",
+    "text": "Both Web engineers and non-technical users conduct navigation semantics testing for WebApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_357",
+    "chapter": "第25章试题",
+    "text": "Which of following is not one of the elements that need to be considered when constructing WebApp server-side configuration tests?",
+    "options": [
+      "A. Browser compatibility",
+      "B. Database software integration",
+      "C. Operating system compatibility",
+      "D. System security measures"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_358",
+    "chapter": "第25章试题",
+    "text": "To design client-side configuration tests each user category is assessed to reduce the number of configuration variables to a manageable number.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_359",
+    "chapter": "第25章试题",
+    "text": "Which of the following is not a testable WebApp security element?",
+    "options": [
+      "A. Authentication",
+      "B. Encryption",
+      "C. Firewalls",
+      "D. Penetration"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_25_360",
+    "chapter": "第25章试题",
+    "text": "WebApp performance tests are designed to",
+    "options": [
+      "A. asses WebApp usability",
+      "B. evaluate page loading times",
+      "C. simulate real-world loading situations",
+      "D. test network connectivity"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_25_361",
+    "chapter": "第25章试题",
+    "text": "Load testing involves determining the input of which 3 variables?",
+    "options": [
+      "A. N, T, D",
+      "B. N, T, P",
+      "C. T, D, P",
+      "D. N, D, P"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_25_362",
+    "chapter": "第25章试题",
+    "text": "WebApp stress testing is a continuation load testing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_363",
+    "chapter": "第26章试题",
+    "text": "MobileApps require special testing methodologies because of concerns associated using them in diverse network environments.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_364",
+    "chapter": "第26章试题",
+    "text": "Since MobileApp users are attracted to new technologies they are very tolerant of errors and testing effort can be reduced.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_26_365",
+    "chapter": "第26章试题",
+    "text": "Designing test cases directly from user stories increase the likelihood of developing effective test cases in a timely manner.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_366",
+    "chapter": "第26章试题",
+    "text": "Automated testing tools eliminate the need to do regression testing for MobileApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_26_367",
+    "chapter": "第26章试题",
+    "text": "A weighted device platform matrix helps to prioritize test cases.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_26_368",
+    "chapter": "第26章试题",
+    "text": "Part of the reason for stress testing is to ensure that the MobileApp exhibits graceful degradation on failure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_369",
+    "chapter": "第26章试题",
+    "text": "Which of the following are reasons for testing in the wild?",
+    "options": [
+      "A. Assessing the impact of production environments",
+      "B. Failing to create test cases",
+      "C. Not understanding user demographics",
+      "D. Testing for variable performance on user devices",
+      "E. both a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_26_370",
+    "chapter": "第26章试题",
+    "text": "When testing the quality of user interaction the focus should be on user visible interaction mechanisms.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_371",
+    "chapter": "第26章试题",
+    "text": "Which of that following add to the difficulty of testing MobileApp gestures?",
+    "options": [
+      "A. Automatic tool use is difficult",
+      "B. Creating functions to simulate events",
+      "C. Screen size variation",
+      "D. Using paper prototypes",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_26_372",
+    "chapter": "第26章试题",
+    "text": "Continuous speech recognition techniques have eliminated the need for key entry in MobileApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_26_373",
+    "chapter": "第26章试题",
+    "text": "Predictive technologies are often used to help speed up virtual keyboard inpu on mobile devices.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_374",
+    "chapter": "第26章试题",
+    "text": "The ability of a MobileApp to handle alerts without disrupting user workflow must be tested in the production environment?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_26_375",
+    "chapter": "第26章试题",
+    "text": "The Testing across borders is not necessary each MobileApp is developed for use in a specific country.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_26_376",
+    "chapter": "第26章试题",
+    "text": "Which of the following are issues that make real-time testing difficult?",
+    "options": [
+      "A. Limited device processing capacity",
+      "B. Power limitations on the device",
+      "C. Unique mobile network infrastructures",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_26_377",
+    "chapter": "第26章试题",
+    "text": "Device emulators eliminate the need to test MobileApps on actual devices.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_378",
+    "chapter": "第27章试题",
+    "text": "When analyzing security requirements focus in system assets with the highest value and greatest exposure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_379",
+    "chapter": "第27章试题",
+    "text": "It is possible to have a safe system that is not secure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_380",
+    "chapter": "第27章试题",
+    "text": "Individuals rarely expose their personal information to others on social media networks.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_381",
+    "chapter": "第27章试题",
+    "text": "Wireless networks require the trust and cooperation between nodes that can be exploited by malicious programs?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_382",
+    "chapter": "第27章试题",
+    "text": "Cloud computing is has greater levels of security that other web data repositories.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_383",
+    "chapter": "第27章试题",
+    "text": "The security concerns remain an obstacle to implementing the vision implied by the Internet of Things .",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_384",
+    "chapter": "第27章试题",
+    "text": "Security and usability requirements are often in conflict with each other.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_385",
+    "chapter": "第27章试题",
+    "text": "Which of following is not one of the elements of a security model?",
+    "options": [
+      "A. Criminal background checks",
+      "B. External interface requirements",
+      "C. Rules of operation",
+      "D. Security policy objectives"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_386",
+    "chapter": "第27章试题",
+    "text": "Security metrics and measures need to assess which of these properties?",
+    "options": [
+      "A. Dependability",
+      "B. Survivability",
+      "C. Trustworthiness",
+      "D. All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_27_387",
+    "chapter": "第27章试题",
+    "text": "Security correctness checks should be included which of the following activities?",
+    "options": [
+      "A. Audits",
+      "B. Deployment",
+      "C. Inspections",
+      "D. Testing",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_27_388",
+    "chapter": "第27章试题",
+    "text": "Which is not one of the elements of a security case?",
+    "options": [
+      "A. Arguments",
+      "B. Bug reports",
+      "C. Claims",
+      "D. Evidence"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_389",
+    "chapter": "第27章试题",
+    "text": "Security assurance and risk identification must be included in the schedule and budget if they are to be taken seriously.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_27_390",
+    "chapter": "第27章试题",
+    "text": "Threat analysis is not needed for conventional software applications.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_27_391",
+    "chapter": "第27章试题",
+    "text": "An incident response plan spells out the actions to be carried out by each stakeholder in response to specific attacks.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_28_392",
+    "chapter": "第28章试题",
+    "text": "The cleanroom strategy is based on the ________ software process model.",
+    "options": [
+      "A. evolutionary",
+      "B. incremental",
+      "C. revolutionary",
+      "D. spiral"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_393",
+    "chapter": "第28章试题",
+    "text": "The cleanroom strategy relies on",
+    "options": [
+      "A. exhaustive testing",
+      "B. extensive unit testing of all modules",
+      "C. tests that exercise the software as it is really used",
+      "D. white box testing strategies"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_28_394",
+    "chapter": "第28章试题",
+    "text": "Use of formal program correctness proofs as part of the cleanroom process eliminates the need do any testing for software defects.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_395",
+    "chapter": "第28章试题",
+    "text": "In cleanroom software engineering a \"box\" encapsulates some system aspect at a particular level of detail.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_28_396",
+    "chapter": "第28章试题",
+    "text": "This box specification describes an abstraction, stimuli, and response.",
+    "options": [
+      "A. black box",
+      "B. clear box",
+      "C. state box",
+      "D. white box"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_28_397",
+    "chapter": "第28章试题",
+    "text": "This box specification describes the architectural design for some system component.",
+    "options": [
+      "A. black box",
+      "B. clear box",
+      "C. state box",
+      "D. white box"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_28_398",
+    "chapter": "第28章试题",
+    "text": "This box specification is closely aligned with procedural design and structured programming.",
+    "options": [
+      "A. black box",
+      "B. clear box",
+      "C. state box",
+      "D. white box"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_399",
+    "chapter": "第28章试题",
+    "text": "In cleanroom software engineering the structured programming approach is used to",
+    "options": [
+      "A. refine data design",
+      "B. refine function design",
+      "C. refine usage test cases",
+      "D. both a and b"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_28_400",
+    "chapter": "第28章试题",
+    "text": "By using only structured programming constructs as you create a procedural design, you make the work of proving design correctness much easier.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_28_401",
+    "chapter": "第28章试题",
+    "text": "Which of the following is not an advantage of using rigorous correctness verification of each refinement of the clear box design?",
+    "options": [
+      "A. improves performance of code",
+      "B. produces better code than unit testing",
+      "C. reduces verification effort",
+      "D. results in near zero defect levels"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_28_402",
+    "chapter": "第28章试题",
+    "text": "Statistical use testing relies on probability distributions based on",
+    "options": [
+      "A. mixture of control structures used in the program",
+      "B. order in which the module execute",
+      "C. the way software will actually be used",
+      "D. user interface design standards"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_28_403",
+    "chapter": "第28章试题",
+    "text": "Certification of an increment is complete once it has passed the formal verification process.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_404",
+    "chapter": "第28章试题",
+    "text": "Which of the following models is part of the cleanroom certification process?",
+    "options": [
+      "A. component model",
+      "B. sampling model",
+      "C. both a and b",
+      "D. none of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_28_405",
+    "chapter": "第28章试题",
+    "text": "A data invariant is a set of conditions that are true during the execution of any function.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_406",
+    "chapter": "第28章试题",
+    "text": "In some formal languages, stored data that the system accesses and alters is called a(n)",
+    "options": [
+      "A. attribute",
+      "B. data structure",
+      "C. state",
+      "D. variant"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_28_407",
+    "chapter": "第28章试题",
+    "text": "In formal methods work, an action that reads or writes data to a state is called a(n)",
+    "options": [
+      "A. actor",
+      "B. event",
+      "C. invariant",
+      "D. operation"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_28_408",
+    "chapter": "第28章试题",
+    "text": "What defines the circumstances in which a particular operation is valid?",
+    "options": [
+      "A. data invariant",
+      "B. precondition",
+      "C. postcondition",
+      "D. state"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_28_409",
+    "chapter": "第28章试题",
+    "text": "Using formal methods eliminates the need to write natural language commentary in the specification document.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_410",
+    "chapter": "第29章试题",
+    "text": "Which of these are valid software configuration items?",
+    "options": [
+      "A. case tools",
+      "B. documentation",
+      "C. executable programs",
+      "D. test data",
+      "E. All of the above."
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_29_411",
+    "chapter": "第29章试题",
+    "text": "Which of the following is not considered one of the four important elements that should exist when a configuration management system is developed?",
+    "options": [
+      "A. component elements",
+      "B. human elements",
+      "C. process elements",
+      "D. validation elements"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_29_412",
+    "chapter": "第29章试题",
+    "text": "Once a software engineering work product becomes a baseline it cannot be changed again.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_413",
+    "chapter": "第29章试题",
+    "text": "Which configuration objects would not typically be found in the project database?",
+    "options": [
+      "A. design specification",
+      "B. marketing data",
+      "C. organizational structure description",
+      "D. test plans",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_29_414",
+    "chapter": "第29章试题",
+    "text": "Modern software engineering practices usually attempt to maintain SCI's in a project database or repository.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_415",
+    "chapter": "第29章试题",
+    "text": "A data repository meta model is used to determine how",
+    "options": [
+      "A. information is stored in the repository",
+      "B. well data integrity can be maintained",
+      "C. easily the existing model can be extended",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_29_416",
+    "chapter": "第29章试题",
+    "text": "Many data repository requirements are the same as those for a typical database application.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_417",
+    "chapter": "第29章试题",
+    "text": "The ability to track relationships and changes to configuration objects is one of the most important features of the SCM repository.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_418",
+    "chapter": "第29章试题",
+    "text": "Which of the following tasks is not part of software configuration management?",
+    "options": [
+      "A. change control",
+      "B. reporting",
+      "C. statistical quality control",
+      "D. version control"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_29_419",
+    "chapter": "第29章试题",
+    "text": "A basic configuration object is a __________ created by a software engineer during some phase of the software development process.",
+    "options": [
+      "A. program data structure",
+      "B. hardware driver",
+      "C. unit of information",
+      "D. all of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_29_420",
+    "chapter": "第29章试题",
+    "text": "Version control systems establish a change set as part of their primary functionality.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_421",
+    "chapter": "第29章试题",
+    "text": "Change control is not necessary if a development group is making use of an automated project database tool.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_422",
+    "chapter": "第29章试题",
+    "text": "When software configuration management is a formal activity the software configuration audit is conducted by the",
+    "options": [
+      "A. development team",
+      "B. quality assurance group",
+      "C. senior managers",
+      "D. testing specialists"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_423",
+    "chapter": "第29章试题",
+    "text": "The primary purpose of configuration status reporting is to",
+    "options": [
+      "A. allow revision of project schedule and cost estimates by project managers",
+      "B. evaluate the performance of software developers and organizations",
+      "C. make sure that change information is communicated to all affected parties",
+      "D. none of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_29_424",
+    "chapter": "第29章试题",
+    "text": "Configuration issues that need to be considered when developing Web and Mobile Apps include:",
+    "options": [
+      "A. content",
+      "B. cost",
+      "C. people",
+      "D. politics",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_29_425",
+    "chapter": "第29章试题",
+    "text": "Web and Mobile App configuration objects can be managed in much the same way as conventional software configuration objects except for:",
+    "options": [
+      "A. content items",
+      "B. functional items",
+      "C. graphic items",
+      "D. user items"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_426",
+    "chapter": "第29章试题",
+    "text": "Content management establishes a process by which Web content is rendered on the user's display screen.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_29_427",
+    "chapter": "第29章试题",
+    "text": "Change management for Web and Mobile Apps is best handled in agile manner.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_428",
+    "chapter": "第29章试题",
+    "text": "One reason that version control is difficult for WebApps is that in an uncontrolled environment, you can have multiple authors making changes to the same files from multiple locations without any realizing it.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_29_429",
+    "chapter": "第29章试题",
+    "text": "Requiring developers to check Web configuration items in and out and sending affected stakeholders e-mail messages automatically are good ways to deal with configuration auditing and reporting for WebApps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_30_430",
+    "chapter": "第30章试题",
+    "text": "Most technical software metrics described in this chapter represent indirect measures software attributes that are useful in the quantitative assessment of software quality.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_30_431",
+    "chapter": "第30章试题",
+    "text": "Which these are reasons for using technical product measures during software development?",
+    "options": [
+      "A. large body of scientific evidence supports their use",
+      "B. provides software engineers with an objective mechanism for assessing software quality",
+      "C. they allow all quality software quality information to be expressed unambiguously as a single number",
+      "D. all of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_432",
+    "chapter": "第30章试题",
+    "text": "Which measurement activity is missing from the list below?",
+    "options": [
+      "A. design",
+      "B. feedback",
+      "C. measurement",
+      "D. quantification"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_433",
+    "chapter": "第30章试题",
+    "text": "The Goal/Question/Metric (GQM) paradigm was developed as a technique for assigning blame for software failures.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_434",
+    "chapter": "第30章试题",
+    "text": "One of the most important attributes for a software product metric is that it should be",
+    "options": [
+      "A. easy to compute",
+      "B. qualitative in nature",
+      "C. reliable over time",
+      "D. widely applicable"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_30_435",
+    "chapter": "第30章试题",
+    "text": "In many cases metrics for one model may be used in later software engineering activities (e.g. design metrics may be used in test planning).",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_30_436",
+    "chapter": "第30章试题",
+    "text": "The function point metric is an example of metric that can be used to assist with technical decision-making based on the analysis model information, without making use of historical project data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_437",
+    "chapter": "第30章试题",
+    "text": "The specification metrics proposed by Davis address which two characteristics of the software requirements?",
+    "options": [
+      "A. functionality and performance",
+      "B. performance and completeness",
+      "C. specificity and completeness",
+      "D. specificity and functionality"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_30_438",
+    "chapter": "第30章试题",
+    "text": "Architectural design metrics focus on",
+    "options": [
+      "A. architectural structure",
+      "B. data structural relationships",
+      "C. internal module complexity",
+      "D. module effectiveness",
+      "E. a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_30_439",
+    "chapter": "第30章试题",
+    "text": "Which of the following is not a measurable characteristic of an object-oriented design?",
+    "options": [
+      "A. completeness",
+      "B. efficiency",
+      "C. size",
+      "D. volatility"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_440",
+    "chapter": "第30章试题",
+    "text": "The depth of inheritance tree (DIT) metric can give an OO software designer a reading on the",
+    "options": [
+      "A. attributes required for each class",
+      "B. completion time required for system implementation",
+      "C. complexity of the class hierarchy",
+      "D. level of object reusability achieved"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_441",
+    "chapter": "第30章试题",
+    "text": "Because the class is the dominant unit in OO systems there is no call for the definition of class-oriented metrics.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_442",
+    "chapter": "第30章试题",
+    "text": "If you encounter a class with a large responsibility (large class size or CS value) you should consider",
+    "options": [
+      "A. making it a base class",
+      "B. making it a subclass",
+      "C. partitioning the class",
+      "D. starting a new class hierarchy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_30_443",
+    "chapter": "第30章试题",
+    "text": "Component-level metrics include measures of",
+    "options": [
+      "A. complexity",
+      "B. coupling",
+      "C. module cohesion",
+      "D. performance",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_30_444",
+    "chapter": "第30章试题",
+    "text": "Because the class is the dominant unit in OO systems very few metrics have been proposed for operations that reside within a class.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_30_445",
+    "chapter": "第30章试题",
+    "text": "Interface metrics are use to assess the complexity of the module's input and output relationships with external devices.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_446",
+    "chapter": "第30章试题",
+    "text": "Most WebApps can be easily characterized by judicious use of widely recognized suites of software metrics?",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_30_447",
+    "chapter": "第30章试题",
+    "text": "Halstead's source code metrics are based on the number of",
+    "options": [
+      "A. modules in the program",
+      "B. operands in the program",
+      "C. operators in the program",
+      "D. volume elements in the program",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_30_448",
+    "chapter": "第30章试题",
+    "text": "Software testing metrics fall into two broad categories",
+    "options": [
+      "A. metrics that focus on defect removal effectiveness",
+      "B. metrics that focus on test coverage",
+      "C. metrics that estimate the duration of the testing process",
+      "D. metrics that predict the number of test cases required",
+      "E. b and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_30_449",
+    "chapter": "第30章试题",
+    "text": "The IEEE software maturity index (SMI) is used to provide a measure of the",
+    "options": [
+      "A. maintainability of a software product based on its availability",
+      "B. relative age of a software product being considered for retirement",
+      "C. reliability of a software product following regression testing",
+      "D. stability of a software product as it is modified during maintenance"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_31_450",
+    "chapter": "第31章试题",
+    "text": "Effective software project management focuses on",
+    "options": [
+      "A. people, performance, payoff, product",
+      "B. people, product, performance, process",
+      "C. people, product, process, project",
+      "D. people, process, payoff, product"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_31_451",
+    "chapter": "第31章试题",
+    "text": "Organizations that achieve high levels of maturity in people management have a higher likelihood of implementing effective software engineering processes.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_31_452",
+    "chapter": "第31章试题",
+    "text": "The first step in project planning is to",
+    "options": [
+      "A. determine the budget.",
+      "B. select a team organizational model.",
+      "C. determine the project constraints.",
+      "D. establish the objectives and scope."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_31_453",
+    "chapter": "第31章试题",
+    "text": "Process framework activities are populated with",
+    "options": [
+      "A. milestones",
+      "B. work products",
+      "C. QA points",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_31_454",
+    "chapter": "第31章试题",
+    "text": "Project management is less important for modern software development since most projects are successful and completed on time.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_31_455",
+    "chapter": "第31章试题",
+    "text": "Which of the following is not considered a stakeholder in the software process?",
+    "options": [
+      "A. customers",
+      "B. end-users",
+      "C. project managers",
+      "D. sales people"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_31_456",
+    "chapter": "第31章试题",
+    "text": "The best person to hire as a project team leader is the most competent software engineering practitioner available.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_31_457",
+    "chapter": "第31章试题",
+    "text": "The best project team organizational model to use when tackling extremely complex problems is the",
+    "options": [
+      "A. closed paradigm",
+      "B. open paradigm",
+      "C. random paradigm",
+      "D. synchronous paradigm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_31_458",
+    "chapter": "第31章试题",
+    "text": "Which factors should be considered in choosing the organizational structure for a software team?",
+    "options": [
+      "A. degree of communication desired",
+      "B. predicted size of the resulting program",
+      "C. rigidity of the delivery date",
+      "D. size of the project budget",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_31_459",
+    "chapter": "第31章试题",
+    "text": "One of the best ways to avoid frustration during the software development process is to",
+    "options": [
+      "A. give team members more control over process and technical decisions.",
+      "B. give team members less control over process and technical decisions.",
+      "C. hide bad news from the project team members until things improve.",
+      "D. reward programmers based on their productivity."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_31_460",
+    "chapter": "第31章试题",
+    "text": "Small agile teams have no place in modern software development.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_31_461",
+    "chapter": "第31章试题",
+    "text": "Which of these software characteristics is not a factor contributing to project coordination difficulties?",
+    "options": [
+      "A. interoperability",
+      "B. performance",
+      "C. scale",
+      "D. uncertainty"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_31_462",
+    "chapter": "第31章试题",
+    "text": "Which of these software characteristics are used to determine the scope of a software project?",
+    "options": [
+      "A. context, lines of code, function",
+      "B. context, function, communication requirements",
+      "C. information objectives, function, performance",
+      "D. communications requirements, performance, information objectives"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_31_463",
+    "chapter": "第31章试题",
+    "text": "The major areas of problem decomposition during the project scoping activity are the",
+    "options": [
+      "A. customer workflow",
+      "B. functionality to be delivered",
+      "C. process used to deliver functionality",
+      "D. software process model",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_31_464",
+    "chapter": "第31章试题",
+    "text": "Product and process decomposition occurs simultaneously as the project plan evolves.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_31_465",
+    "chapter": "第31章试题",
+    "text": "When can selected common process framework activities be omitted during process decomposition?",
+    "options": [
+      "A. when the project is extremely small in size",
+      "B. any time the software is mission critical",
+      "C. rapid prototyping does not require their use",
+      "D. never the activities are invariant"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_31_466",
+    "chapter": "第31章试题",
+    "text": "How does a software project manager need to act to minimize the risk of software failure?",
+    "options": [
+      "A. double the project team size",
+      "B. request a large budget",
+      "C. start on the right foot",
+      "D. track progress",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_31_467",
+    "chapter": "第31章试题",
+    "text": "The W5HH principle contains which of the following questions?",
+    "options": [
+      "A. Why is the system being developed?",
+      "B. What will be done by whom?",
+      "C. Where are they organizationally located?",
+      "D. How much of each resource is required?",
+      "E. a, c d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_31_468",
+    "chapter": "第31章试题",
+    "text": "Which of these are critical practices for performance-based project management?",
+    "options": [
+      "A. assessing product usability",
+      "B. defect tracking against quality targets",
+      "C. empirical cost estimation",
+      "D. formal risk management",
+      "E. b, c, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_32_469",
+    "chapter": "第32章试题",
+    "text": "Which of these are valid reasons for measuring software processes, products, and resources?",
+    "options": [
+      "A. to characterize them",
+      "B. to evaluate them",
+      "C. to price them",
+      "D. to improve them",
+      "E. a, b, d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_32_470",
+    "chapter": "第32章试题",
+    "text": "Process indicators enable a software project manager to",
+    "options": [
+      "A. assess the status of an on-going project",
+      "B. track potential risks",
+      "C. adjust work flow or tasks",
+      "D. none of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_32_471",
+    "chapter": "第32章试题",
+    "text": "Public metrics are used",
+    "options": [
+      "A. to evaluate the performance of software development teams.",
+      "B. to appraise the performance of individual team members.",
+      "C. to make strategic changes to the software process.",
+      "D. to make tactical changes during a software project.",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_32_472",
+    "chapter": "第32章试题",
+    "text": "Which of the following items are not measured by software project metrics?",
+    "options": [
+      "A. inputs",
+      "B. markets",
+      "C. outputs",
+      "D. results"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_32_473",
+    "chapter": "第32章试题",
+    "text": "Software quality and functionality must be measured indirectly.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_32_474",
+    "chapter": "第32章试题",
+    "text": "Which of following are advantages of using LOC (lines of code) as a size-oriented metric?",
+    "options": [
+      "A. LOC is easily computed.",
+      "B. LOC is a language dependent measure.",
+      "C. LOC is a language independent measure.",
+      "D. LOC can be computed before a design is completed."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_32_475",
+    "chapter": "第32章试题",
+    "text": "Which of the following are advantages of using function points (FP) as a measure of the functionality delivered by a software application?",
+    "options": [
+      "A. FP is easily computed.",
+      "B. FP is a language dependent measure.",
+      "C. FP is a language independent measure.",
+      "D. FP can be computed before a design is completed.",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_32_476",
+    "chapter": "第32章试题",
+    "text": "There is no need to reconcile LOC and FP measures since each in meaningful in its own right as a project measure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_32_477",
+    "chapter": "第32章试题",
+    "text": "Object-Oriented project measures may be combined with historical project data to provide metrics that aid in project estimation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_32_478",
+    "chapter": "第32章试题",
+    "text": "Use-Case oriented metrics are computed directly from UML diagrams they are often used as normalization measures.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_32_479",
+    "chapter": "第32章试题",
+    "text": "Which of the following is not a measure that can be collected from a Web application project?",
+    "options": [
+      "A. Customization index",
+      "B. Number of dynamic objects",
+      "C. Number of internal page links",
+      "D. Number of static web pages"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_32_480",
+    "chapter": "第32章试题",
+    "text": "Which of the following software quality factors is most likely to be affected by radical changes to computing architectures?",
+    "options": [
+      "A. operation",
+      "B. transition",
+      "C. revision",
+      "D. none of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_32_481",
+    "chapter": "第32章试题",
+    "text": "Which of the following provide useful measures of software quality?",
+    "options": [
+      "A. correctness, performance, integrity, usability",
+      "B. reliability, maintainability, integrity, sales",
+      "C. correctness, maintainability, size, satisfaction",
+      "D. correctness, maintainability, integrity, usability"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_32_482",
+    "chapter": "第32章试题",
+    "text": "A software quality metric that can be used at both the process and project levels is defect removal efficiency (DRE).",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_32_483",
+    "chapter": "第32章试题",
+    "text": "Why is it important to measure the process of software engineering and software it produces?",
+    "options": [
+      "A. It is really not necessary unless the project is extremely complex.",
+      "B. To determine costs and allow a profit margin to be set.",
+      "C. To determine whether a software group is improving or not.",
+      "D. To make software engineering more like other engineering processes."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_32_484",
+    "chapter": "第32章试题",
+    "text": "To be an effective aid in process improvement the baseline data used must be:",
+    "options": [
+      "A. based on reasonable guestimates from past projects",
+      "B. measured consistently across projects",
+      "C. drawn from similar projects",
+      "D. based on all previously completed projects",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_32_485",
+    "chapter": "第32章试题",
+    "text": "Baseline data must be collected in an on-going manner and cannot be computed by formal study of historical project data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_32_486",
+    "chapter": "第32章试题",
+    "text": "Small software organizations are not likely to see any economic return from establishing software metrics program.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_32_487",
+    "chapter": "第32章试题",
+    "text": "The software metrics chosen by an organization are driven by the business or technical goals an organization wishes to accomplish.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_488",
+    "chapter": "第33章试题",
+    "text": "Since project estimates are not completely reliable, they can be ignored once a software development project begins.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_33_489",
+    "chapter": "第33章试题",
+    "text": "The objective of software project planing is to",
+    "options": [
+      "A. convince the customer that a project is feasible.",
+      "B. make use of historical project data.",
+      "C. enable a manager to make reasonable estimates of cost and schedule.",
+      "D. determine the probable profit margin prior to bidding on a project."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_33_490",
+    "chapter": "第33章试题",
+    "text": "The project scope is defined as a means of bounding the system",
+    "options": [
+      "A. functionality",
+      "B. performance",
+      "C. costs",
+      "D. schedule",
+      "E. a and b"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_33_491",
+    "chapter": "第33章试题",
+    "text": "Software feasibility is based on which of the following",
+    "options": [
+      "A. business and marketing concerns",
+      "B. scope, constraints, market",
+      "C. technology, finance, time, resources",
+      "D. technical prowess of the developers"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_33_492",
+    "chapter": "第33章试题",
+    "text": "The number of people required for a software project is determined",
+    "options": [
+      "A. after an estimate of the development effort is made.",
+      "B. by the size of the project budget.",
+      "C. from an assessment of the technical complexity of the system.",
+      "D. all of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_493",
+    "chapter": "第33章试题",
+    "text": "Reusable software components must be",
+    "options": [
+      "A. catalogued for easy reference.",
+      "B. standardized for easy application.",
+      "C. validated for easy integration.",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_33_494",
+    "chapter": "第33章试题",
+    "text": "The software engineering environment (SEE) consists of which of the following?",
+    "options": [
+      "A. customers",
+      "B. developers",
+      "C. hardware platforms",
+      "D. software tools",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_33_495",
+    "chapter": "第33章试题",
+    "text": "Software project estimation techniques can be broadly classified under which of the following headings?",
+    "options": [
+      "A. automated processes",
+      "B. decomposition techniques",
+      "C. empirical models",
+      "D. regression models",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_33_496",
+    "chapter": "第33章试题",
+    "text": "The size estimate for a software product to be built must be based on a direct measure like LOC.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_33_497",
+    "chapter": "第33章试题",
+    "text": "Problem-based estimation is based on problem decomposition which focuses on",
+    "options": [
+      "A. information domain values",
+      "B. project schedule",
+      "C. software functions",
+      "D. process activities",
+      "E. a and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_33_498",
+    "chapter": "第33章试题",
+    "text": "LOC-based estimation techniques require problem decomposition based on",
+    "options": [
+      "A. information domain values",
+      "B. project schedule",
+      "C. software functions",
+      "D. process activities"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_33_499",
+    "chapter": "第33章试题",
+    "text": "FP-based estimation techniques require problem decomposition based on",
+    "options": [
+      "A. information domain values",
+      "B. project schedule",
+      "C. software functions",
+      "D. process activities"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_500",
+    "chapter": "第33章试题",
+    "text": "Process-based estimation techniques require problem decomposition based on",
+    "options": [
+      "A. information domain values",
+      "B. project schedule",
+      "C. software functions",
+      "D. process activities",
+      "E. c and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_33_501",
+    "chapter": "第33章试题",
+    "text": "Unlike a LOC or function point each person's \"use-case\" is exactly the same size.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_33_502",
+    "chapter": "第33章试题",
+    "text": "When agreement between estimates is poor the cause may often be traced to inadequately defined project scope or inappropriate productivity data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_503",
+    "chapter": "第33章试题",
+    "text": "Empirical estimation models are typically based on",
+    "options": [
+      "A. expert judgement based on past project experiences",
+      "B. refinement of expected value estimation",
+      "C. regression models derived from historical project data",
+      "D. trial and error determination of the parameters and coefficients"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_33_504",
+    "chapter": "第33章试题",
+    "text": "COCOMO II is an example of a suite of modern empirical estimation models that require sizing information expressed as:",
+    "options": [
+      "A. function points",
+      "B. lines of code",
+      "C. object points",
+      "D. any of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_33_505",
+    "chapter": "第33章试题",
+    "text": "Putnam's software equation is a dynamic empirical model that has two independent parameters: a size estimate and an indication of project duration in calendar months or years.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_506",
+    "chapter": "第33章试题",
+    "text": "Function points are of no user in developing estimates for object-oriented software.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_33_507",
+    "chapter": "第33章试题",
+    "text": "In agile software development estimation techniques focus on the time required to complete each",
+    "options": [
+      "A. increment",
+      "B. scenario",
+      "C. task",
+      "D. use-case"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_508",
+    "chapter": "第33章试题",
+    "text": "It is possible to use a modified function point technique to develop estimates for Web applications.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_509",
+    "chapter": "第33章试题",
+    "text": "Using a statistical technique like decision tree analysis can provide some assistance in sorting out the true costs associated with the make-buy decision.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_33_510",
+    "chapter": "第33章试题",
+    "text": "Outsourcing always provides a simple means of acquiring software at lower cost than onsite development of the same product.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_511",
+    "chapter": "第34章试题",
+    "text": "Software projects are inevitably late and there is nothing that can explain why.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_512",
+    "chapter": "第34章试题",
+    "text": "It is unethical to undertake a project that you know in advance cannot be completed by the customer's deadline, unless you inform the customer of the risk and establish a project plan that can deliver the needed system incrementally.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_34_513",
+    "chapter": "第34章试题",
+    "text": "Which of the following is not one of the guiding principles of software project scheduling:",
+    "options": [
+      "A. compartmentalization",
+      "B. market assessment",
+      "C. time allocation",
+      "D. effort validation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_514",
+    "chapter": "第34章试题",
+    "text": "Doubling the size of your software project team is guaranteed to cut project completion time in half.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_515",
+    "chapter": "第34章试题",
+    "text": "The software equation can be used to show that by extending the project deadline slightly",
+    "options": [
+      "A. fewer people are required",
+      "B. you are guaranteed to meet the deadline",
+      "C. more lines of code can be produced",
+      "D. none of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_34_516",
+    "chapter": "第34章试题",
+    "text": "The 40-20-40 rule suggests that the least of amount of development effort be spent on",
+    "options": [
+      "A. estimation and planning",
+      "B. analysis and design",
+      "C. coding",
+      "D. testing"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_34_517",
+    "chapter": "第34章试题",
+    "text": "A task set is a collection of",
+    "options": [
+      "A. engineering work tasks, milestones, deliverables",
+      "B. task assignments, cost estimates, metrics",
+      "C. milestones, deliverables, metrics",
+      "D. responsibilities, milestones, documents"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_34_518",
+    "chapter": "第34章试题",
+    "text": "The task (activity) network is a useful mechanism for",
+    "options": [
+      "A. computing the overall effort estimate",
+      "B. detecting intertask dependencies",
+      "C. determining the critical path",
+      "D. specifying the task set to the customer",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_34_519",
+    "chapter": "第34章试题",
+    "text": "Tasks that lie on the critical path in a task network may be completed in any order as long as the project is on schedule.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_520",
+    "chapter": "第34章试题",
+    "text": "Two tools for computing critical path and project completion times from activity networks are",
+    "options": [
+      "A. CPM",
+      "B. DRE",
+      "C. FP",
+      "D. PERT",
+      "E. a and d"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_34_521",
+    "chapter": "第34章试题",
+    "text": "Timeline charts assist project managers in determining what tasks will be conducted at a given point in time.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_34_522",
+    "chapter": "第34章试题",
+    "text": "The best indicator of progress on a software project is the completion",
+    "options": [
+      "A. of a defined engineering activity task",
+      "B. of a successful budget review meeting on time",
+      "C. and successful review of a defined software work product",
+      "D. and successful acceptance of project prototype by the customer"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_34_523",
+    "chapter": "第34章试题",
+    "text": "Since iterative process model work best for object-oriented projects it is impossible to determine whether an increment will be completed on time or not.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_524",
+    "chapter": "第34章试题",
+    "text": "WebApp projects only require the creation of a macro schedule.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_525",
+    "chapter": "第34章试题",
+    "text": "The purpose of earned value analysis is to",
+    "options": [
+      "A. determine how to compensate developers based on their productivity",
+      "B. provide a quantitative means of assessing software project progress",
+      "C. provide a qualitative means of assessing software project progress",
+      "D. set the price point for a software product based on development effort"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_34_526",
+    "chapter": "第34章试题",
+    "text": "Earned value analysis is a technique that allows managers to take corrective action before a project crisis develops.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_35_527",
+    "chapter": "第35章试题",
+    "text": "Proactive risk management is sometimes described as fire fighting.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_528",
+    "chapter": "第35章试题",
+    "text": "Software risk always involves two characteristics",
+    "options": [
+      "A. fire fighting and crisis management",
+      "B. known and unknown risks",
+      "C. uncertainty and loss",
+      "D. staffing and budget"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_35_529",
+    "chapter": "第35章试题",
+    "text": "Three categories of risks are",
+    "options": [
+      "A. business risks, personnel risks, budget risks",
+      "B. project risks, technical risks, business risks",
+      "C. planning risks, technical risks, personnel risks",
+      "D. management risks, technical risks, design risks"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_530",
+    "chapter": "第35章试题",
+    "text": "Generic risks require far more attention than product-specific risks.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_531",
+    "chapter": "第35章试题",
+    "text": "A risk item checklist would contain known and predictable risks from which of these categories?",
+    "options": [
+      "A. product size",
+      "B. development environment",
+      "C. staff size",
+      "D. process definition",
+      "E. all of the above"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_35_532",
+    "chapter": "第35章试题",
+    "text": "Questions that should be asked to assess the overall project risk include:",
+    "options": [
+      "A. Have top managers formally committed to support the project?",
+      "B. Are end-users committed to the project and proposed system being built?",
+      "C. Are requirement fully understood by development team and customers?",
+      "D. Does the proposed budget have time allocated for marketing?",
+      "E. a, b, c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_35_533",
+    "chapter": "第35章试题",
+    "text": "Software risk impact assessment should focus on consequences affecting",
+    "options": [
+      "A. planning, resources, cost, schedule",
+      "B. marketability, cost, personnel",
+      "C. business, technology, process",
+      "D. performance, support, cost, schedule"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_35_534",
+    "chapter": "第35章试题",
+    "text": "Risk projection attempts to rate each risk in two ways",
+    "options": [
+      "A. likelihood and cost",
+      "B. likelihood and impact",
+      "C. likelihood and consequences",
+      "D. likelihood and exposure"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_35_535",
+    "chapter": "第35章试题",
+    "text": "Risk tables are sorted by",
+    "options": [
+      "A. probability and cost",
+      "B. probability and impact",
+      "C. probability and consequences",
+      "D. probability and exposure"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_536",
+    "chapter": "第35章试题",
+    "text": "Individual team members can make their own estimate for a risk probability and then develop a consensus value.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_35_537",
+    "chapter": "第35章试题",
+    "text": "Which factors affect the probable consequences likely if a risk does occur?",
+    "options": [
+      "A. risk cost",
+      "B. risk timing",
+      "C. risk scope",
+      "D. risk resources",
+      "E. b and c"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "q_35_538",
+    "chapter": "第35章试题",
+    "text": "The reason for refining risks is to break them into smaller units having different consequences.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_539",
+    "chapter": "第35章试题",
+    "text": "Effective risk management plan needs to address which of these issues?",
+    "options": [
+      "A. risk avoidance",
+      "B. risk monitoring",
+      "C. contingency planning",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_35_540",
+    "chapter": "第35章试题",
+    "text": "Risk monitoring involves watching the risk indicators defined for the project and not determining the effectiveness of the risk mitigation steps themselves.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_35_541",
+    "chapter": "第35章试题",
+    "text": "Hazard analysis focuses on the identification and assessment of potential hazards that can cause",
+    "options": [
+      "A. project termination",
+      "B. schedule slippage",
+      "C. cost overruns",
+      "D. an entire system to fail"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_35_542",
+    "chapter": "第35章试题",
+    "text": "Risk information sheets (RIS) are never an acceptable substitute for a full risk mitigation, monitoring, and management (RMMM) plan.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_543",
+    "chapter": "第36章试题",
+    "text": "How much effort is typically expended by a software organization on software maintenance?",
+    "options": [
+      "A. 20 percent",
+      "B. 40 percent",
+      "C. 60 percent",
+      "D. 80 percent"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_36_544",
+    "chapter": "第36章试题",
+    "text": "Software supportability is not concerned with either the provision of hardware or infrastructure.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_545",
+    "chapter": "第36章试题",
+    "text": "Business process reengineering is often accompanied by software reengineering.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_36_546",
+    "chapter": "第36章试题",
+    "text": "Which of the following is not an example of a business process?",
+    "options": [
+      "A. designing a new product",
+      "B. hiring an employee",
+      "C. purchasing services",
+      "D. testing software"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_36_547",
+    "chapter": "第36章试题",
+    "text": "Business process reengineering does not have a start or end, it is an evolutionary process.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_36_548",
+    "chapter": "第36章试题",
+    "text": "Which of the following activities is not part of the software reengineering process model?",
+    "options": [
+      "A. forward engineering",
+      "B. inventory analysis",
+      "C. prototyping",
+      "D. reverse engineering"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_36_549",
+    "chapter": "第36章试题",
+    "text": "Software reengineering process model includes restructuring activities for which of the following work items?",
+    "options": [
+      "A. code",
+      "B. documentation",
+      "C. data",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_36_550",
+    "chapter": "第36章试题",
+    "text": "Which of the following is not an issue to consider when reverse engineering?",
+    "options": [
+      "A. abstraction level",
+      "B. completeness",
+      "C. connectivity",
+      "D. directionality"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_36_551",
+    "chapter": "第36章试题",
+    "text": "Reverse engineering of data focuses on",
+    "options": [
+      "A. database structures",
+      "B. internal data structures",
+      "C. both a and b",
+      "D. none of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "q_36_552",
+    "chapter": "第36章试题",
+    "text": "The first reverse engineering activity involves seeking to understand",
+    "options": [
+      "A. data",
+      "B. processing",
+      "C. user interfaces",
+      "D. none of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_553",
+    "chapter": "第36章试题",
+    "text": "Reverse engineering should proceed the reengineering of any user interface.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_36_554",
+    "chapter": "第36章试题",
+    "text": "Which of these benefits can be achieved when software is restructured?",
+    "options": [
+      "A. higher quality programs",
+      "B. reduced maintenance effort",
+      "C. software easier to test",
+      "D. all of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "q_36_555",
+    "chapter": "第36章试题",
+    "text": "Code restructuring is a good example of software reengineering.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_556",
+    "chapter": "第36章试题",
+    "text": "Which of these is not an example of data restructuring?",
+    "options": [
+      "A. data analysis",
+      "B. data name rationalization",
+      "C. data record standardization",
+      "D. none of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_36_557",
+    "chapter": "第36章试题",
+    "text": "Forward engineering is not necessary if an existing software product is producing the correct output.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_558",
+    "chapter": "第36章试题",
+    "text": "Reengineering client/server systems begins with a thorough analysis of the business environment that encompasses the existing computing system.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q_36_559",
+    "chapter": "第36章试题",
+    "text": "The only time reengineering enters into work with a legacy system is when it components will be implemented as objects.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q_36_560",
+    "chapter": "第36章试题",
+    "text": "The cost benefits derived from reengineering are realized largely due to decreased maintenance and support costs for the new software product.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  }
+]
