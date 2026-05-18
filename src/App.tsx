@@ -62,11 +62,8 @@ export default function App() {
         {/* Header */}
         <header className="flex items-center justify-between">
           <div className="flex items-center gap-3">
-             <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center font-bold text-xl shadow-[0_0_20px_rgba(79,70,229,0.4)] text-white">
-              SQ
-            </div>
             <div>
-              <h1 className="text-2xl font-bold tracking-tight">SmartQuiz <span className="text-indigo-500">本地版</span></h1>
+              <h1 className="text-2xl font-bold tracking-tight">软工基小测做题器</h1>
               <p className="text-xs text-gray-500 font-mono uppercase tracking-widest">题库模式已激活</p>
             </div>
           </div>

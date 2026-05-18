@@ -1,6 +1,6 @@
-# SmartQuiz Local - 离线题库助手
+# 软工基小测做题器
 
-SmartQuiz Local 是一个基于 React + Vite 开发的响应式 Web 应用，旨在帮助学生高效查询课程小测题库。它支持文本检索和完全本地运行的图片 OCR 识别。
+本项目是一个基于 React + Vite 开发的响应式 Web 应用，通过G**gle AI studio开发，旨在帮助学生高效查询课程小测题库。它支持文本检索和完全本地运行的图片 OCR 识别。
 
 ## ✨ 主要功能
 
